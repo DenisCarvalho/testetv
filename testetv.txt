@@ -1,0 +1,1258 @@
+#EXTINF-1 tvg-id= tvg-name=Aeroporto Area Restrita USA tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoveryaeroportousa.png group-title=Canais  DISCOVERY+ - 24H,Aeroporto Area Restrita USA
+httpsrv.maxptv.net8080max5547max5547113092
+#EXTINF-1 tvg-id=AGROMHD tvg-name=AgroMais HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesagromais.png group-title=Canais  NOTÍCIAS ,AgroMais HD
+httpsrv.maxptv.net8080max5547max554748331
+#EXTINF-1 tvg-id=AGROMHD tvg-name=AgroMais SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesagromais.png group-title=Canais  NOTÍCIAS ,AgroMais SD
+httpsrv.maxptv.net8080max5547max554748332
+#EXTINF-1 tvg-id= tvg-name=Aladdin (1994) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h138.png group-title=Canais  INFANTIL 24 HORAS,Aladdin (1994)
+httpsrv.maxptv.net8080max5547max554742939
+#EXTINF-1 tvg-id=AMCBRHD tvg-name=AMC HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26526.png group-title=Canais  FILMES,AMC HD
+httpsrv.maxptv.net8080max5547max554727187
+#EXTINF-1 tvg-id=AMCBRHD tvg-name=AMC SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26526.png group-title=Canais  FILMES,AMC SD
+httpsrv.maxptv.net8080max5547max554727188
+#EXTINF-1 tvg-id=ANIPBHD tvg-name=Animal Planet FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosanimalplanet.png group-title=Canais  DOCUMENTÁRIOS ,Animal Planet FHD
+httpsrv.maxptv.net8080max5547max554727227
+#EXTINF-1 tvg-id=ANIPBHD tvg-name=Animal Planet HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosanimalplanet.png group-title=Canais  DOCUMENTÁRIOS ,Animal Planet HD
+httpsrv.maxptv.net8080max5547max554727228
+#EXTINF-1 tvg-id=ANIPBHD tvg-name=Animal Planet SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosanimalplanet.png group-title=Canais  DOCUMENTÁRIOS ,Animal Planet SD
+httpsrv.maxptv.net8080max5547max554727229
+#EXTINF-1 tvg-id= tvg-name=As Aventuras de Jackie Chan (2000) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h139.png group-title=Canais  INFANTIL 24 HORAS,As Aventuras de Jackie Chan (2000)
+httpsrv.maxptv.net8080max5547max554749715
+#EXTINF-1 tvg-id= tvg-name=As Meninas Super Poderosas tvg-logo=httpsrv.maxptv.net8080images34aac5ee5fa607fcd7dcbd89c6123e4f.png group-title=Canais  INFANTIL 24 HORAS,As Meninas Super Poderosas
+httpsrv.maxptv.net8080max5547max554786067
+#EXTINF-1 tvg-id=AXNHDB tvg-name=AXN FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26527.png group-title=Canais  FILMES E SÉRIES ,AXN FHD
+httpsrv.maxptv.net8080max5547max554727319
+#EXTINF-1 tvg-id=AXNHDB tvg-name=AXN HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26527.png group-title=Canais  FILMES E SÉRIES ,AXN HD
+httpsrv.maxptv.net8080max5547max554727320
+#EXTINF-1 tvg-id=AXNHDB tvg-name=AXN SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26527.png group-title=Canais  FILMES E SÉRIES ,AXN SD
+httpsrv.maxptv.net8080max5547max554727321
+#EXTINF-1 tvg-id= tvg-name=Baby Looney Tunes tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24babylooneytoones.png group-title=Canais  INFANTIL 24 HORAS,Baby Looney Tunes
+httpsrv.maxptv.net8080max5547max554771663
+#EXTINF-1 tvg-id= tvg-name=Baby Looney Tunes tvg-logo=httpsrv.maxptv.net8080images11629183647d6b128994c7bc176c0bcd.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Baby Looney Tunes
+httpsrv.maxptv.net8080max5547max5547113214
+#EXTINF-1 tvg-id= tvg-name=Baby Looney Tunes (2002) tvg-logo=httpfalko.myddns.meLogosInfantil24h142.png group-title=Canais  INFANTIL 24 HORAS,Baby Looney Tunes (2002)
+httpsrv.maxptv.net8080max5547max554742942
+#EXTINF-1 tvg-id=BABYBR tvg-name=BabyTV HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilbabytv.png group-title=Canais  INFANTIL,BabyTV HD
+httpsrv.maxptv.net8080max5547max554727401
+#EXTINF-1 tvg-id=BABYBR tvg-name=BabyTV SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilbabytv.png group-title=Canais  INFANTIL,BabyTV SD
+httpsrv.maxptv.net8080max5547max554727402
+#EXTINF-1 tvg-id=BDCAMHD tvg-name=Band Campinas HD tvg-logo=httpsbocs.no-ip.netlogobandcampinas.png group-title=Canais  ABERTOS,Band Campinas HD
+httpsrv.maxptv.net8080max5547max554727154
+#EXTINF-1 tvg-id=ZYB889 tvg-name=Band Campinas SD tvg-logo=httpsbocs.no-ip.netlogobandcampinas.png group-title=Canais  ABERTOS,Band Campinas SD
+httpsrv.maxptv.net8080max5547max554727155
+#EXTINF-1 tvg-id=BandNews.br tvg-name=Band News HD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasbandnews.png group-title=Canais  NOTÍCIAS ,Band News HD
+httpsrv.maxptv.net8080max5547max5547224
+#EXTINF-1 tvg-id=BandNews.br tvg-name=Band News SD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasbandnews.png group-title=Canais  NOTÍCIAS ,Band News SD
+httpsrv.maxptv.net8080max5547max5547223
+#EXTINF-1 tvg-id=BDCAMHD tvg-name=Band SP HD tvg-logo=httpsbocs.no-ip.netlogobandcampinas.png group-title=Canais  ABERTOS,Band SP HD
+httpsrv.maxptv.net8080max5547max554727156
+#EXTINF-1 tvg-id=BDCAMHD tvg-name=Band SP SD tvg-logo=httpsbocs.no-ip.netlogobandcampinas.png group-title=Canais  ABERTOS,Band SP SD
+httpsrv.maxptv.net8080max5547max554727157
+#EXTINF-1 tvg-id=BANDSPH tvg-name=Band Sports HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesbandsports.png group-title=Canais  ESPORTES,Band Sports HD
+httpsrv.maxptv.net8080max5547max554727271
+#EXTINF-1 tvg-id=BANDSPH tvg-name=Band Sports SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesbandsports.png group-title=Canais  ESPORTES,Band Sports SD
+httpsrv.maxptv.net8080max5547max554727294
+#EXTINF-1 tvg-id= tvg-name=Batman do Futuro tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24batmanfuturo.png group-title=Canais  INFANTIL 24 HORAS,Batman do Futuro
+httpsrv.maxptv.net8080max5547max554771661
+#EXTINF-1 tvg-id= tvg-name=Batman do Futuro (1999) tvg-logo=httpsrv.maxptv.net8080images58af157587628ed8bcbbe3fb0b65c166.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Batman do Futuro (1999)
+httpsrv.maxptv.net8080max5547max5547113216
+#EXTINF-1 tvg-id= tvg-name=Batman 2004 tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24batman2004.png group-title=Canais  INFANTIL 24 HORAS,Batman 2004
+httpsrv.maxptv.net8080max5547max554771659
+#EXTINF-1 tvg-id= tvg-name=Batman A Série Animada tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24batmanseries.png group-title=Canais  INFANTIL 24 HORAS,Batman A Série Animada
+httpsrv.maxptv.net8080max5547max554771657
+#EXTINF-1 tvg-id= tvg-name=Batman Novas Aventuras tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24batmannovasaventuras.png group-title=Canais  INFANTIL 24 HORAS,Batman Novas Aventuras
+httpsrv.maxptv.net8080max5547max5547113088
+#EXTINF-1 tvg-id= tvg-name=Ben 10 Omniverse (2012) tvg-logo=httpsrv.maxptv.net8080images4f720cc0c101f3774fb8e7a32b2e8129.png group-title=Canais  INFANTIL 24 HORAS,Ben 10 Omniverse (2012)
+httpsrv.maxptv.net8080max5547max554786073
+#EXTINF-1 tvg-id= tvg-name=Ben 10 Supremacia Alienigena (2010) tvg-logo=httpsrv.maxptv.net8080images07161e6d1c17e2503fb68fa0cbe839b6.png group-title=Canais  INFANTIL 24 HORAS,Ben 10 Supremacia Alienigena (2010)
+httpsrv.maxptv.net8080max5547max554786074
+#EXTINF-1 tvg-id= tvg-name=BestRadio Brasil tvg-logo=httpsbocs.no-ip.netlogosiptvradiosbestradio.png group-title=Canais I RÁDIOS FM,BestRadio Brasil
+httpsrv.maxptv.net8080max5547max554723673
+#EXTINF-1 tvg-id=BIS tvg-name=Bis HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaisbis.png group-title=Canais  MUSICAIS,Bis HD
+httpsrv.maxptv.net8080max5547max554727434
+#EXTINF-1 tvg-id=BIS tvg-name=Bis SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaisbis.png group-title=Canais  MUSICAIS,Bis SD
+httpsrv.maxptv.net8080max5547max554727435
+#EXTINF-1 tvg-id= tvg-name=Black Kamen Rider 24H tvg-logo=httpsbocs.no-ip.net24rodrigo2BlackKamenRider.png group-title=Canais   24 HORAS,Black Kamen Rider 24H
+httpsrv.maxptv.net8080max5547max5547537
+#EXTINF-1 tvg-id=BloombergTVBrazil.br tvg-name=Bloomberg HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaBloomberg.png group-title=Canais I CORTESIA,Bloomberg HD
+httpsrv.maxptv.net8080max5547max554749127
+#EXTINF-1 tvg-id=BloombergTVBrazil.br tvg-name=Bloomberg HD tvg-logo=httpsrv.maxptv.net8080images1b87225c734b0a934e9ce33ffc53c9ce.png group-title=Canais  MUNDO INTERNACIONAL,Bloomberg HD
+httpsrv.maxptv.net8080max5547max554749147
+#EXTINF-1 tvg-id=BloombergTVBrazil.br tvg-name=Bloomberg SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaBloomberg.png group-title=Canais I CORTESIA,Bloomberg SD
+httpsrv.maxptv.net8080max5547max554749128
+#EXTINF-1 tvg-id=BloombergTVBrazil.br tvg-name=Bloomberg SD tvg-logo=httpsrv.maxptv.net8080images1b87225c734b0a934e9ce33ffc53c9ce.png group-title=Canais  MUNDO INTERNACIONAL,Bloomberg SD
+httpsrv.maxptv.net8080max5547max554749148
+#EXTINF-1 tvg-id=BOAVONT tvg-name=Boa Vontade TV HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaboavontade.png group-title=Canais I CORTESIA,Boa Vontade TV HD
+httpsrv.maxptv.net8080max5547max554749115
+#EXTINF-1 tvg-id=BOAVONT tvg-name=Boa Vontade TV SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaboavontade.png group-title=Canais I CORTESIA,Boa Vontade TV SD
+httpsrv.maxptv.net8080max5547max554749116
+#EXTINF-1 tvg-id= tvg-name=Bob Esponja 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h147.png group-title=Canais  INFANTIL 24 HORAS,Bob Esponja 24H
+httpsrv.maxptv.net8080max5547max554740793
+#EXTINF-1 tvg-id= tvg-name=Bob Esponja Canal 1 tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24bobsponja.png group-title=Canais  INFANTIL 24 HORAS,Bob Esponja Canal 1
+httpsrv.maxptv.net8080max5547max5547113087
+#EXTINF-1 tvg-id=BOOMB tvg-name=Boomerang HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilboomerang.png group-title=Canais  INFANTIL,Boomerang HD
+httpsrv.maxptv.net8080max5547max554727399
+#EXTINF-1 tvg-id=BOOMB tvg-name=Boomerang SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilboomerang.png group-title=Canais  INFANTIL,Boomerang SD
+httpsrv.maxptv.net8080max5547max554727400
+#EXTINF-1 tvg-id= tvg-name=Canal 29 tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriescanal29.png group-title= Canais  CLÁSSICOS SÉRIES ,Canal 29
+httpsrv.maxptv.net8080max5547max554771731
+#EXTINF-1 tvg-id=CNLBRSH tvg-name=Canal Brasil FHD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalbrasil.png group-title=Canais  FILMES E SÉRIES ,Canal Brasil FHD
+httpsrv.maxptv.net8080max5547max554727327
+#EXTINF-1 tvg-id=CNLBRSH tvg-name=Canal Brasil HD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalbrasil.png group-title=Canais  FILMES E SÉRIES ,Canal Brasil HD
+httpsrv.maxptv.net8080max5547max5547111747
+#EXTINF-1 tvg-id=CNLBRSH tvg-name=Canal Brasil SD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalbrasil.png group-title=Canais  FILMES E SÉRIES ,Canal Brasil SD
+httpsrv.maxptv.net8080max5547max5547111748
+#EXTINF-1 tvg-id= tvg-name=Canal CSI 24H tvg-logo=httpsbocs.no-ip.net24rodrigo2CanalCSI.png group-title=Canais   24 HORAS,Canal CSI 24H
+httpsrv.maxptv.net8080max5547max5547538
+#EXTINF-1 tvg-id=CanaldoBoi.br tvg-name=Canal do Boi HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiacanaldoboi.png group-title=Canais I CORTESIA,Canal do Boi HD
+httpsrv.maxptv.net8080max5547max554720467
+#EXTINF-1 tvg-id=CanaldoBoi.br tvg-name=Canal do Boi SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiacanaldoboi.png group-title=Canais I CORTESIA,Canal do Boi SD
+httpsrv.maxptv.net8080max5547max554749046
+#EXTINF-1 tvg-id= tvg-name=Canal do Carro SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadescanaldocarro.png group-title=Canais  VARIEDADES,Canal do Carro SD
+httpsrv.maxptv.net8080max5547max554748353
+#EXTINF-1 tvg-id=CRU tvg-name=Canal Rural HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiacanalrural.png group-title=Canais I CORTESIA,Canal Rural HD
+httpsrv.maxptv.net8080max5547max554749121
+#EXTINF-1 tvg-id=CRU tvg-name=Canal Rural SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiacanalrural.png group-title=Canais I CORTESIA,Canal Rural SD
+httpsrv.maxptv.net8080max5547max554749122
+#EXTINF-1 tvg-id=SETB tvg-name=Canal Sony FHD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalsony.png group-title=Canais  FILMES E SÉRIES ,Canal Sony FHD
+httpsrv.maxptv.net8080max5547max554727370
+#EXTINF-1 tvg-id=SETB tvg-name=Canal Sony HD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalsony.png group-title=Canais  FILMES E SÉRIES ,Canal Sony HD
+httpsrv.maxptv.net8080max5547max554727345
+#EXTINF-1 tvg-id=SETB tvg-name=Canal Sony SD tvg-logo=httpsbocs.no-ip.netlogocanaiscanalsony.png group-title=Canais  FILMES E SÉRIES ,Canal Sony SD
+httpsrv.maxptv.net8080max5547max554727346
+#EXTINF-1 tvg-id=CANCAON tvg-name=Canção Nova HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaocancaonova.png group-title=Canais  RELIGIÃO,Canção Nova HD
+httpsrv.maxptv.net8080max5547max554747755
+#EXTINF-1 tvg-id=CANCAON tvg-name=Canção Nova HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaocancaonova.png group-title=Canais  RELIGIÃO,Canção Nova HD
+httpsrv.maxptv.net8080max5547max554747757
+#EXTINF-1 tvg-id=CANCAON tvg-name=Canção Nova SD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaocancaonova.png group-title=Canais  RELIGIÃO,Canção Nova SD
+httpsrv.maxptv.net8080max5547max554747756
+#EXTINF-1 tvg-id=CANCAON tvg-name=Canção Nova SD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaocancaonova.png group-title=Canais  RELIGIÃO,Canção Nova SD
+httpsrv.maxptv.net8080max5547max554747758
+#EXTINF-1 tvg-id= tvg-name=Capitão Planeta (1990) tvg-logo=httpsnx.nayptv.comimagesvkYW8kBI-uZN-j1M7wlrKnRPIjIqt3WKF9QcwxuIfBGwypBA4Mc2Z-LjaiJG59LX.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Capitão Planeta (1990)
+httpsrv.maxptv.net8080max5547max554749779
+#EXTINF-1 tvg-id=TOONBHD tvg-name=Cartoon Network FHD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilcartoonnetwork.png group-title=Canais  INFANTIL,Cartoon Network FHD
+httpsrv.maxptv.net8080max5547max554727396
+#EXTINF-1 tvg-id=TOONBHD tvg-name=Cartoon Network HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilcartoonnetwork.png group-title=Canais  INFANTIL,Cartoon Network HD
+httpsrv.maxptv.net8080max5547max554727397
+#EXTINF-1 tvg-id=TOONBHD tvg-name=Cartoon Network SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilcartoonnetwork.png group-title=Canais  INFANTIL,Cartoon Network SD
+httpsrv.maxptv.net8080max5547max554727398
+#EXTINF-1 tvg-id=CARNITO tvg-name=Cartoonito HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilcaroonito.png group-title=Canais  INFANTIL,Cartoonito HD
+httpsrv.maxptv.net8080max5547max554749054
+#EXTINF-1 tvg-id=CARNITO tvg-name=Cartoonito SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilcaroonito.png group-title=Canais  INFANTIL,Cartoonito SD
+httpsrv.maxptv.net8080max5547max554749055
+#EXTINF-1 tvg-id= tvg-name=CatDog tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24catdog.png group-title=Canais  INFANTIL 24 HORAS,CatDog
+httpsrv.maxptv.net8080max5547max5547113086
+#EXTINF-1 tvg-id= tvg-name=Caverna do Dragão tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h149.png group-title=Canais  INFANTIL 24 HORAS,Caverna do Dragão
+httpsrv.maxptv.net8080max5547max554746512
+#EXTINF-1 tvg-id= tvg-name=CDZ  Saga de Poseidon 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ  Saga de Poseidon 24H
+httpsrv.maxptv.net8080max5547max554740809
+#EXTINF-1 tvg-id= tvg-name=CDZ  Saga de Poseidon 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ  Saga de Poseidon 24H
+httpsrv.maxptv.net8080max5547max554740787
+#EXTINF-1 tvg-id= tvg-name=CDZ Saga de Asgard 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ Saga de Asgard 24H
+httpsrv.maxptv.net8080max5547max554740788
+#EXTINF-1 tvg-id= tvg-name=CDZ Saga de Hades 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ Saga de Hades 24H
+httpsrv.maxptv.net8080max5547max554740811
+#EXTINF-1 tvg-id= tvg-name=CDZ Saga de Hades 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ Saga de Hades 24H
+httpsrv.maxptv.net8080max5547max554740789
+#EXTINF-1 tvg-id= tvg-name=CDZ Saga do Santuario  24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ Saga do Santuario  24H
+httpsrv.maxptv.net8080max5547max554740812
+#EXTINF-1 tvg-id= tvg-name=CDZ Saga do Santuario  24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h150.png group-title=Canais  INFANTIL 24 HORAS,CDZ Saga do Santuario  24H
+httpsrv.maxptv.net8080max5547max554740790
+#EXTINF-1 tvg-id= tvg-name=Chapolin 2 24H tvg-logo=httpsbocs.no-ip.net24rodrigochapolin.png group-title=Canais  INFANTIL 24 HORAS,Chapolin 2 24H
+httpsrv.maxptv.net8080max5547max554719541
+#EXTINF-1 tvg-id= tvg-name=Chaves 24H tvg-logo=httpfalko.myddns.meLogosInfantil24h153.png group-title=Canais  INFANTIL 24 HORAS,Chaves 24H
+httpsrv.maxptv.net8080max5547max554740791
+#EXTINF-1 tvg-id= tvg-name=Chaves Desenho 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h152.png group-title=Canais  INFANTIL 24 HORAS,Chaves Desenho 24H
+httpsrv.maxptv.net8080max5547max554740798
+#EXTINF-1 tvg-id= tvg-name=Chris Country tvg-logo=httpsbocs.no-ip.netlogosiptvradioschriscountry.png group-title=Canais I RÁDIOS FM,Chris Country
+httpsrv.maxptv.net8080max5547max554723664
+#EXTINF-1 tvg-id= tvg-name=Cine Action 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigoCineAction.png group-title=Canais   24 HORAS,Cine Action 24H Ultra HD
+httpsrv.maxptv.net8080max5547max5547548
+#EXTINF-1 tvg-id= tvg-name=Cine Drama 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigoCineDrama.png group-title=Canais   24 HORAS,Cine Drama 24H Ultra HD
+httpsrv.maxptv.net8080max5547max5547550
+#EXTINF-1 tvg-id= tvg-name=Cine Family 24H tvg-logo=httpsbocs.no-ip.net24rodrigoCineFamily.png group-title=Canais   24 HORAS,Cine Family 24H
+httpsrv.maxptv.net8080max5547max5547551
+#EXTINF-1 tvg-id= tvg-name=Cine Faroeste 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigocinefaroeste.png group-title=Canais   24 HORAS,Cine Faroeste 24H Ultra HD
+httpsrv.maxptv.net8080max5547max55471478
+#EXTINF-1 tvg-id= tvg-name=Cine Fiction 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigoCineFiction.png group-title=Canais   24 HORAS,Cine Fiction 24H Ultra HD
+httpsrv.maxptv.net8080max5547max5547536
+#EXTINF-1 tvg-id= tvg-name=Cine Fun 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigoCineFun%20.png group-title=Canais   24 HORAS,Cine Fun 24H Ultra HD
+httpsrv.maxptv.net8080max5547max5547552
+#EXTINF-1 tvg-id= tvg-name=Cine Guerra 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigocineguerra.png group-title=Canais   24 HORAS,Cine Guerra 24H Ultra HD
+httpsrv.maxptv.net8080max5547max55471477
+#EXTINF-1 tvg-id= tvg-name=Cine Horror 24H Ultra HD tvg-logo=httpsbocs.no-ip.net24rodrigoCineHorror.png group-title=Canais   24 HORAS,Cine Horror 24H Ultra HD
+httpsrv.maxptv.net8080max5547max5547553
+#EXTINF-1 tvg-id= tvg-name=CINE KIDS 24H ULTRA HD tvg-logo=httpsbocs.no-ip.net24rodrigoCinekids.png group-title=Canais   24 HORAS,CINE KIDS 24H ULTRA HD
+httpsrv.maxptv.net8080max5547max5547554
+#EXTINF-1 tvg-id= tvg-name=CINE Nacionais 24H tvg-logo=httpsbocs.no-ip.net24rodrigoCineNacionais.png group-title=Canais   24 HORAS,CINE Nacionais 24H
+httpsrv.maxptv.net8080max5547max5547555
+#EXTINF-1 tvg-id= tvg-name=Cine Romance tvg-logo=httpdns.mmtv.me80imagesmg9e4VnU5MiobcDarwnBsQmrxDb_CtB2tkfk9BRNB6k.png group-title=Canais   24 HORAS,Cine Romance
+httpsrv.maxptv.net8080max5547max554771532
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 01 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 01 HD
+httpsrv.maxptv.net8080max5547max554726714
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 02 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 02 HD
+httpsrv.maxptv.net8080max5547max554726715
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 03 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 03 HD
+httpsrv.maxptv.net8080max5547max554726716
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 04 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 04 HD
+httpsrv.maxptv.net8080max5547max554726717
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 05 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 05 HD
+httpsrv.maxptv.net8080max5547max554726718
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 06 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 06 HD
+httpsrv.maxptv.net8080max5547max554726719
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 07 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 07 HD
+httpsrv.maxptv.net8080max5547max554726720
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 08 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 08 HD
+httpsrv.maxptv.net8080max5547max554726721
+#EXTINF-1 tvg-id=CINESKY tvg-name=CINE SKY 09 HD tvg-logo=httpsbocs.no-ip.netlogosnovosCineSKY225.png group-title=Canais I CINE SKY,CINE SKY 09 HD
+httpsrv.maxptv.net8080max5547max554726722
+#EXTINF-1 tvg-id= tvg-name=Cine Suspense tvg-logo=httpdns.mmtv.me80imagesmg9e4VnU5MiobcDarwnBsfYGi1Z1g2fYKpTPWcS_ens.png group-title=Canais   24 HORAS,Cine Suspense
+httpsrv.maxptv.net8080max5547max554771530
+#EXTINF-1 tvg-id= tvg-name=Cine Terror tvg-logo=httpdns.mmtv.me80imagesmg9e4VnU5MiobcDarwnBsXQwVqjui8_uD6uwbKhfos0.png group-title=Canais   24 HORAS,Cine Terror
+httpsrv.maxptv.net8080max5547max554771528
+#EXTINF-1 tvg-id=CINCHD tvg-name=Cinecanal FHD tvg-logo=httpsbocs.no-ip.netlogosiptvcinecanalcinecanal.png group-title=Canais  FILMES E SÉRIES ,Cinecanal FHD
+httpsrv.maxptv.net8080max5547max554727660
+#EXTINF-1 tvg-id=CINCHD tvg-name=Cinecanal HD tvg-logo=httpsbocs.no-ip.netlogosiptvcinecanalcinecanal.png group-title=Canais  FILMES E SÉRIES ,Cinecanal HD
+httpsrv.maxptv.net8080max5547max554727661
+#EXTINF-1 tvg-id=CINCHD tvg-name=Cinecanal SD tvg-logo=httpsbocs.no-ip.netlogosiptvcinecanalcinecanal.png group-title=Canais  FILMES E SÉRIES ,Cinecanal SD
+httpsrv.maxptv.net8080max5547max554727662
+#EXTINF-1 tvg-id=CINEMXB tvg-name=Cinemax FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26530.png group-title=Canais  FILMES,Cinemax FHD
+httpsrv.maxptv.net8080max5547max554751393
+#EXTINF-1 tvg-id=CINEMXB tvg-name=Cinemax HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26530.png group-title=Canais  FILMES,Cinemax HD
+httpsrv.maxptv.net8080max5547max554751391
+#EXTINF-1 tvg-id=CINEMXB tvg-name=Cinemax SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26530.png group-title=Canais  FILMES,Cinemax SD
+httpsrv.maxptv.net8080max5547max554751392
+#EXTINF-1 tvg-id= tvg-name=Classique Filmes tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriesclassicwestern.png group-title= Canais  CLÁSSICOS SÉRIES ,Classique Filmes
+httpsrv.maxptv.net8080max5547max554771729
+#EXTINF-1 tvg-id= tvg-name=Classique Tv Western tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriesclassicwestern.png group-title= Canais  CLÁSSICOS SÉRIES ,Classique Tv Western
+httpsrv.maxptv.net8080max5547max554771730
+#EXTINF-1 tvg-id= tvg-name=Clube da Criança tvg-logo=httpsbocs.no-ip.netlogosiptvradiosclubecrianca.png group-title=Canais I RÁDIOS FM,Clube da Criança
+httpsrv.maxptv.net8080max5547max554723652
+#EXTINF-1 tvg-id=CNNB tvg-name=Cnn Brasil HD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiascnnbrasil.png group-title=Canais  NOTÍCIAS ,Cnn Brasil HD
+httpsrv.maxptv.net8080max5547max55478890
+#EXTINF-1 tvg-id=CNNB tvg-name=Cnn Brasil SD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiascnnbrasil.png group-title=Canais  NOTÍCIAS ,Cnn Brasil SD
+httpsrv.maxptv.net8080max5547max55478891
+#EXTINF-1 tvg-id=CNNIB tvg-name=CNN International HD tvg-logo=httpsbocs.no-ip.netlogosiptvmundocnninternacional.png group-title=Canais  MUNDO INTERNACIONAL,CNN International HD
+httpsrv.maxptv.net8080max5547max554749145
+#EXTINF-1 tvg-id=CNNIB tvg-name=CNN International SD tvg-logo=httpsbocs.no-ip.netlogosiptvmundocnninternacional.png group-title=Canais  MUNDO INTERNACIONAL,CNN International SD
+httpsrv.maxptv.net8080max5547max554749146
+#EXTINF-1 tvg-id=COMBATC tvg-name=Combate FHD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierecombate.png group-title=Canais  PREMIERE,Combate FHD
+httpsrv.maxptv.net8080max5547max554727424
+#EXTINF-1 tvg-id=COMBATC tvg-name=Combate HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierecombate.png group-title=Canais  PREMIERE,Combate HD
+httpsrv.maxptv.net8080max5547max554727422
+#EXTINF-1 tvg-id=COMBATC tvg-name=Combate SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierecombate.png group-title=Canais  PREMIERE,Combate SD
+httpsrv.maxptv.net8080max5547max554727423
+#EXTINF-1 tvg-id=COMCENT tvg-name=Comedy Central FHD tvg-logo=httpsbocs.no-ip.netlogocanaiscomedycentral.png group-title=Canais  FILMES E SÉRIES ,Comedy Central FHD
+httpsrv.maxptv.net8080max5547max554727367
+#EXTINF-1 tvg-id=COMCENT tvg-name=Comedy Central HD tvg-logo=httpsbocs.no-ip.netlogocanaiscomedycentral.png group-title=Canais  FILMES E SÉRIES ,Comedy Central HD
+httpsrv.maxptv.net8080max5547max554727368
+#EXTINF-1 tvg-id=COMCENT tvg-name=Comedy Central SD tvg-logo=httpsbocs.no-ip.netlogocanaiscomedycentral.png group-title=Canais  FILMES E SÉRIES ,Comedy Central SD
+httpsrv.maxptv.net8080max5547max554727369
+#EXTINF-1 tvg-id= tvg-name=Como eu Conheci a Sua Mae  24H tvg-logo=httpsbocs.no-ip.net24rodrigo2comoconhecisuamae.png group-title=Canais   24 HORAS,Como eu Conheci a Sua Mae  24H
+httpsrv.maxptv.net8080max5547max5547567
+#EXTINF-1 tvg-id=ConmebolTV1.br tvg-name=CONMEBOL PARAMOUNT+ 1 HD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 1 HD
+httpsrv.maxptv.net8080max5547max554718835
+#EXTINF-1 tvg-id= tvg-name=CONMEBOL PARAMOUNT+ 1 HD² tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 1 HD²
+httpsrv.maxptv.net8080max5547max5547115481
+#EXTINF-1 tvg-id=ConmebolTV1.br tvg-name=CONMEBOL PARAMOUNT+ 1 SD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 1 SD
+httpsrv.maxptv.net8080max5547max554719039
+#EXTINF-1 tvg-id=ConmebolTV2.br tvg-name=CONMEBOL PARAMOUNT+ 2 HD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 2 HD
+httpsrv.maxptv.net8080max5547max554718836
+#EXTINF-1 tvg-id= tvg-name=CONMEBOL PARAMOUNT+ 2 HD² tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 2 HD²
+httpsrv.maxptv.net8080max5547max5547115482
+#EXTINF-1 tvg-id=ConmebolTV2.br tvg-name=CONMEBOL PARAMOUNT+ 2 SD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 2 SD
+httpsrv.maxptv.net8080max5547max554719040
+#EXTINF-1 tvg-id=ConmebolTV3.br tvg-name=CONMEBOL PARAMOUNT+ 3 HD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 3 HD
+httpsrv.maxptv.net8080max5547max554718837
+#EXTINF-1 tvg-id= tvg-name=CONMEBOL PARAMOUNT+ 3 HD² tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 3 HD²
+httpsrv.maxptv.net8080max5547max5547115483
+#EXTINF-1 tvg-id=ConmebolTV3.br tvg-name=CONMEBOL PARAMOUNT+ 3 SD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 3 SD
+httpsrv.maxptv.net8080max5547max554719041
+#EXTINF-1 tvg-id=ConmebolTV4.br tvg-name=CONMEBOL PARAMOUNT+ 4 HD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 4 HD
+httpsrv.maxptv.net8080max5547max554718838
+#EXTINF-1 tvg-id= tvg-name=CONMEBOL PARAMOUNT+ 4 HD² tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 4 HD²
+httpsrv.maxptv.net8080max5547max5547115484
+#EXTINF-1 tvg-id=ConmebolTV4.br tvg-name=CONMEBOL PARAMOUNT+ 4 SD tvg-logo=httpsdesignersbrasileiros.com.brwp-contentuploads201705novo-logo-conmebol.png group-title=Canais  CONMEBOL PARAMOUNT+,CONMEBOL PARAMOUNT+ 4 SD
+httpsrv.maxptv.net8080max5547max554719042
+#EXTINF-1 tvg-id= tvg-name=Coragem o Cão Covarde tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24coragem.png group-title=Canais  INFANTIL 24 HORAS,Coragem o Cão Covarde
+httpsrv.maxptv.net8080max5547max5547113085
+#EXTINF-1 tvg-id= tvg-name=Corrida Maluca tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24corridamaluca.png group-title=Canais  INFANTIL 24 HORAS,Corrida Maluca
+httpsrv.maxptv.net8080max5547max5547113079
+#EXTINF-1 tvg-id= tvg-name=Crimes que Viralizaram tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverycrimesqueviralizaram.png group-title=Canais  DISCOVERY+ - 24H,Crimes que Viralizaram
+httpsrv.maxptv.net8080max5547max5547113029
+#EXTINF-1 tvg-id=CULTUHD tvg-name=Cultura HD tvg-logo=httpsbocs.no-ip.netlogocanaiscultura.png group-title=Canais  ABERTOS,Cultura HD
+httpsrv.maxptv.net8080max5547max554727152
+#EXTINF-1 tvg-id=CULTURA tvg-name=Cultura SD tvg-logo=httpsbocs.no-ip.netlogocanaiscultura.png group-title=Canais  ABERTOS,Cultura SD
+httpsrv.maxptv.net8080max5547max554727153
+#EXTINF-1 tvg-id=CURTAHD tvg-name=Curta! HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadescurta.png group-title=Canais  VARIEDADES,Curta! HD
+httpsrv.maxptv.net8080max5547max554727658
+#EXTINF-1 tvg-id=CURTAHD tvg-name=Curta! SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadescurta.png group-title=Canais  VARIEDADES,Curta! SD
+httpsrv.maxptv.net8080max5547max554727659
+#EXTINF-1 tvg-id= tvg-name=Cybercop, os Policiais do Futuro 24H tvg-logo=httpsbocs.no-ip.net24rodrigo2Cybercop.png group-title=Canais   24 HORAS,Cybercop, os Policiais do Futuro 24H
+httpsrv.maxptv.net8080max5547max55471479
+#EXTINF-1 tvg-id= tvg-name=Desenhos Clássicos tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24desenhosclassicos.png group-title=Canais  INFANTIL 24 HORAS,Desenhos Clássicos
+httpsrv.maxptv.net8080max5547max5547113066
+#EXTINF-1 tvg-id= tvg-name=Dick Vigarista tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24dick.png group-title=Canais  INFANTIL 24 HORAS,Dick Vigarista
+httpsrv.maxptv.net8080max5547max5547113084
+#EXTINF-1 tvg-id=TDCBHD tvg-name=Discovery Channel FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoverychannel.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Channel FHD
+httpsrv.maxptv.net8080max5547max554727221
+#EXTINF-1 tvg-id=TDCBHD tvg-name=Discovery Channel HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoverychannel.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Channel HD
+httpsrv.maxptv.net8080max5547max554727222
+#EXTINF-1 tvg-id=TDCBHD tvg-name=Discovery Channel SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoverychannel.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Channel SD
+httpsrv.maxptv.net8080max5547max554727243
+#EXTINF-1 tvg-id=DHEAB tvg-name=Discovery Home & Health FHD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeshomehealt.png group-title=Canais  VARIEDADES,Discovery Home & Health FHD
+httpsrv.maxptv.net8080max5547max554727220
+#EXTINF-1 tvg-id=DHEAB tvg-name=Discovery Home & Health HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeshomehealt.png group-title=Canais  VARIEDADES,Discovery Home & Health HD
+httpsrv.maxptv.net8080max5547max554727654
+#EXTINF-1 tvg-id=DHEAB tvg-name=Discovery Home & Health SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeshomehealt.png group-title=Canais  VARIEDADES,Discovery Home & Health SD
+httpsrv.maxptv.net8080max5547max554727655
+#EXTINF-1 tvg-id=DKNB tvg-name=Discovery Kids HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantildiscoverykids.png group-title=Canais  INFANTIL,Discovery Kids HD
+httpsrv.maxptv.net8080max5547max554727394
+#EXTINF-1 tvg-id=DKNB tvg-name=Discovery Kids SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantildiscoverykids.png group-title=Canais  INFANTIL,Discovery Kids SD
+httpsrv.maxptv.net8080max5547max554727395
+#EXTINF-1 tvg-id=DSB tvg-name=Discovery Science FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoveryscience.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Science FHD
+httpsrv.maxptv.net8080max5547max554727209
+#EXTINF-1 tvg-id=DSB tvg-name=Discovery Science HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoveryscience.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Science HD
+httpsrv.maxptv.net8080max5547max554727210
+#EXTINF-1 tvg-id=DSB tvg-name=Discovery Science SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosduscoveryscience.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Science SD
+httpsrv.maxptv.net8080max5547max554727211
+#EXTINF-1 tvg-id=DISCHD tvg-name=Discovery Theater HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariostheather.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Theater HD
+httpsrv.maxptv.net8080max5547max554727212
+#EXTINF-1 tvg-id=DISCHD tvg-name=Discovery Theater SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariostheather.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Theater SD
+httpsrv.maxptv.net8080max5547max554727213
+#EXTINF-1 tvg-id=DTBHD tvg-name=Discovery Turbo FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryturbo.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Turbo FHD
+httpsrv.maxptv.net8080max5547max554727214
+#EXTINF-1 tvg-id=DTBHD tvg-name=Discovery Turbo HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryturbo.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Turbo HD
+httpsrv.maxptv.net8080max5547max554727215
+#EXTINF-1 tvg-id=DTBHD tvg-name=Discovery Turbo SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryturbo.png group-title=Canais  DOCUMENTÁRIOS ,Discovery Turbo SD
+httpsrv.maxptv.net8080max5547max554727216
+#EXTINF-1 tvg-id=DWHDB tvg-name=Discovery World FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryworld.png group-title=Canais  DOCUMENTÁRIOS ,Discovery World FHD
+httpsrv.maxptv.net8080max5547max554727217
+#EXTINF-1 tvg-id=DWHDB tvg-name=Discovery World HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryworld.png group-title=Canais  DOCUMENTÁRIOS ,Discovery World HD
+httpsrv.maxptv.net8080max5547max554727218
+#EXTINF-1 tvg-id=DWHDB tvg-name=Discovery World SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdiscoveryworld.png group-title=Canais  DOCUMENTÁRIOS ,Discovery World SD
+httpsrv.maxptv.net8080max5547max554727219
+#EXTINF-1 tvg-id=DISNB tvg-name=Disney Channel  HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantildisneychannel.png group-title=Canais  INFANTIL,Disney Channel  HD
+httpsrv.maxptv.net8080max5547max554727387
+#EXTINF-1 tvg-id=DISNB tvg-name=Disney Channel FHD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantildisneychannel.png group-title=Canais  INFANTIL,Disney Channel FHD
+httpsrv.maxptv.net8080max5547max554727388
+#EXTINF-1 tvg-id=DISNB tvg-name=Disney Channel SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantildisneychannel.png group-title=Canais  INFANTIL,Disney Channel SD
+httpsrv.maxptv.net8080max5547max554727389
+#EXTINF-1 tvg-id=dogtv.br tvg-name=DogTV HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdogtv.png group-title=Canais  DOCUMENTÁRIOS ,DogTV HD
+httpsrv.maxptv.net8080max5547max554727230
+#EXTINF-1 tvg-id=dogtv.br tvg-name=DogTV SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosdogtv.png group-title=Canais  DOCUMENTÁRIOS ,DogTV SD
+httpsrv.maxptv.net8080max5547max554727231
+#EXTINF-1 tvg-id= tvg-name=Dois Homens e Meio tvg-logo=httpdns.mmtv.me80imagesAetOeKfrWTDy8oYkKnqguR9ES-9K6SMgH6EIzMqMtsQWJEySA4grFXkgkxNVJsGejrRX1oKMfew8xoRrBxyy2O6TlDhVYrbDuAKsKhEh5UQ.png group-title=Canais   24 HORAS,Dois Homens e Meio
+httpsrv.maxptv.net8080max5547max554771560
+#EXTINF-1 tvg-id= tvg-name=Dr. House 2 24H tvg-logo=httpsbocs.no-ip.net24rodrigo2house.png group-title=Canais   24 HORAS,Dr. House 2 24H
+httpsrv.maxptv.net8080max5547max554720461
+#EXTINF-1 tvg-id= tvg-name=Dragoes  24H tvg-logo=httpsbocs.no-ip.net24rodrigo2dragoes.png group-title=Canais   24 HORAS,Dragoes  24H
+httpsrv.maxptv.net8080max5547max55471480
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball GT (1996) tvg-logo=httpsrv.maxptv.net8080images54607c518b46aee003e6454ff20aecb1.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Dragon Ball GT (1996)
+httpsrv.maxptv.net8080max5547max5547113204
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball GT 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball GT 24H
+httpsrv.maxptv.net8080max5547max554740804
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball GT 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais   24 HORAS,Dragon Ball GT 24H
+httpsrv.maxptv.net8080max5547max554740781
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Super 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball Super 24H
+httpsrv.maxptv.net8080max5547max554740799
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball X Freeza 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball X Freeza 24H
+httpsrv.maxptv.net8080max5547max554740800
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball X Freeza 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais   24 HORAS,Dragon Ball X Freeza 24H
+httpsrv.maxptv.net8080max5547max554740777
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Androides 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball Z Androides 24H
+httpsrv.maxptv.net8080max5547max554740801
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Androides 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais   24 HORAS,Dragon Ball Z Androides 24H
+httpsrv.maxptv.net8080max5547max554740778
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Cell 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball Z Cell 24H
+httpsrv.maxptv.net8080max5547max554740802
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Cell 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais   24 HORAS,Dragon Ball Z Cell 24H
+httpsrv.maxptv.net8080max5547max554740779
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Sayajins 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais  INFANTIL 24 HORAS,Dragon Ball Z Sayajins 24H
+httpsrv.maxptv.net8080max5547max554740803
+#EXTINF-1 tvg-id= tvg-name=Dragon Ball Z Sayajins 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2dragonball.png group-title=Canais   24 HORAS,Dragon Ball Z Sayajins 24H
+httpsrv.maxptv.net8080max5547max554740780
+#EXTINF-1 tvg-id=DUBAISP tvg-name=DUBAI SPORTS 1 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesdubai.png group-title=Canais I ESPORTES STREAMING,DUBAI SPORTS 1 HD
+httpsrv.maxptv.net8080max5547max554751871
+#EXTINF-1 tvg-id=DUBAISP tvg-name=DUBAI SPORTS 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesdubai.png group-title=Canais I ESPORTES STREAMING,DUBAI SPORTS 2 HD
+httpsrv.maxptv.net8080max5547max554751872
+#EXTINF-1 tvg-id= tvg-name=Duck Tales tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24duckthales.png group-title=Canais  INFANTIL 24 HORAS,Duck Tales
+httpsrv.maxptv.net8080max5547max5547113083
+#EXTINF-1 tvg-id= tvg-name=Ducktales 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h162.png group-title=Canais  INFANTIL 24 HORAS,Ducktales 24H
+httpsrv.maxptv.net8080max5547max554740805
+#EXTINF-1 tvg-id=ETVBHD tvg-name=E! HD tvg-logo=httpsbocs.no-ip.netlogocanaise!.png group-title=Canais  FILMES E SÉRIES ,E! HD
+httpsrv.maxptv.net8080max5547max554727365
+#EXTINF-1 tvg-id=ETVBHD tvg-name=E! SD tvg-logo=httpsbocs.no-ip.netlogocanaise!.png group-title=Canais  FILMES E SÉRIES ,E! SD
+httpsrv.maxptv.net8080max5547max554727366
+#EXTINF-1 tvg-id=ECAMPHD tvg-name=EPTV Campinas FHD tvg-logo=httpsbocs.no-ip.netlogoeptvcampinas.png group-title=Canais  ABERTOS,EPTV Campinas FHD
+httpsrv.maxptv.net8080max5547max554734234
+#EXTINF-1 tvg-id=ECAMPHD tvg-name=EPTV Campinas HD tvg-logo=httpsbocs.no-ip.netlogoeptvcampinas.png group-title=Canais  ABERTOS,EPTV Campinas HD
+httpsrv.maxptv.net8080max5547max554727150
+#EXTINF-1 tvg-id=GLBEPCA tvg-name=EPTV Campinas SD tvg-logo=httpsbocs.no-ip.netlogoeptvcampinas.png group-title=Canais  ABERTOS,EPTV Campinas SD
+httpsrv.maxptv.net8080max5547max554727151
+#EXTINF-1 tvg-id=ESPNHDB tvg-name=ESPN  2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespn2.png group-title=Canais  ESPORTES,ESPN  2 HD
+httpsrv.maxptv.net8080max5547max554727267
+#EXTINF-1 tvg-id=ESPNHDB tvg-name=ESPN  2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespn2.png group-title=Canais  ESPORTES,ESPN  2 SD
+httpsrv.maxptv.net8080max5547max554727268
+#EXTINF-1 tvg-id=espn3.br tvg-name=ESPN  3 HD tvg-logo=httpsbocs.no-ip.netlogosiptvnovosespnespn3.png group-title=Canais  ESPORTES,ESPN  3 HD
+httpsrv.maxptv.net8080max5547max554727265
+#EXTINF-1 tvg-id=espn3.br tvg-name=ESPN  3 SD tvg-logo=httpsbocs.no-ip.netlogosiptvnovosespnespn3.png group-title=Canais  ESPORTES,ESPN  3 SD
+httpsrv.maxptv.net8080max5547max554727266
+#EXTINF-1 tvg-id=espn4.br tvg-name=ESPN 4 HD tvg-logo=httpsbocs.no-ip.netlogosiptvnovosespnespn4.png group-title=Canais  ESPORTES,ESPN 4 HD
+httpsrv.maxptv.net8080max5547max554727285
+#EXTINF-1 tvg-id=espn4.br tvg-name=ESPN 4 SD tvg-logo=httpsbocs.no-ip.netlogosiptvnovosespnespn4.png group-title=Canais  ESPORTES,ESPN 4 SD
+httpsrv.maxptv.net8080max5547max554727295
+#EXTINF-1 tvg-id=ESPNEHD tvg-name=Espn Extra  SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespnextra.png group-title=Canais  ESPORTES,Espn Extra  SD
+httpsrv.maxptv.net8080max5547max554727270
+#EXTINF-1 tvg-id=ESPNEHD tvg-name=Espn Extra HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespnextra.png group-title=Canais  ESPORTES,Espn Extra HD
+httpsrv.maxptv.net8080max5547max554727269
+#EXTINF-1 tvg-id=ESPNBRH tvg-name=ESPN HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespn.png group-title=Canais  ESPORTES,ESPN HD
+httpsrv.maxptv.net8080max5547max554727641
+#EXTINF-1 tvg-id=ESPNBRH tvg-name=ESPN SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesespn.png group-title=Canais  ESPORTES,ESPN SD
+httpsrv.maxptv.net8080max5547max554727642
+#EXTINF-1 tvg-id=EUR tvg-name=Eurochannel HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeseurochannel.png group-title=Canais  FILMES,Eurochannel HD
+httpsrv.maxptv.net8080max5547max554748365
+#EXTINF-1 tvg-id=EUR tvg-name=Eurochannel SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeseurochannel.png group-title=Canais  FILMES,Eurochannel SD
+httpsrv.maxptv.net8080max5547max554748366
+#EXTINF-1 tvg-id= tvg-name=Familia da Pesada 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h163.png group-title=Canais  INFANTIL 24 HORAS,Familia da Pesada 24H
+httpsrv.maxptv.net8080max5547max55471481
+#EXTINF-1 tvg-id= tvg-name=Familia Dinossauro  24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h164.png group-title=Canais  INFANTIL 24 HORAS,Familia Dinossauro  24H
+httpsrv.maxptv.net8080max5547max5547569
+#EXTINF-1 tvg-id=FASHBR tvg-name=Fashion TV HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfashiontv.png group-title=Canais I CORTESIA,Fashion TV HD
+httpsrv.maxptv.net8080max5547max554748333
+#EXTINF-1 tvg-id=FASHBR tvg-name=Fashion TV SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfashiontv.png group-title=Canais I CORTESIA,Fashion TV SD
+httpsrv.maxptv.net8080max5547max554748334
+#EXTINF-1 tvg-id= tvg-name=FFH The 80's tvg-logo=httpsbocs.no-ip.netlogosiptvradiosfht.png group-title=Canais I RÁDIOS FM,FFH The 80's
+httpsrv.maxptv.net8080max5547max554728021
+#EXTINF-1 tvg-id=FilmArtsBrazil.br tvg-name=Film&Arts HD tvg-logo=httpsstatic.wixstatic.commediab13b12_716a17df3a654b65ac01971c7086b532~mv2.png group-title=Canais  FILMES E SÉRIES ,Film&Arts HD
+httpsrv.maxptv.net8080max5547max554727325
+#EXTINF-1 tvg-id=FilmArtsBrazil.br tvg-name=Film&Arts SD tvg-logo=httpsstatic.wixstatic.commediab13b12_716a17df3a654b65ac01971c7086b532~mv2.png group-title=Canais  FILMES E SÉRIES ,Film&Arts SD
+httpsrv.maxptv.net8080max5547max554727326
+#EXTINF-1 tvg-id=FISHHD tvg-name=Fish TV FHD tvg-logo=httpsbocs.no-ip.netlogocanaisfishtv.png group-title=Canais  DOCUMENTÁRIOS ,Fish TV FHD
+httpsrv.maxptv.net8080max5547max554727206
+#EXTINF-1 tvg-id=FISHHD tvg-name=Fish TV HD tvg-logo=httpsbocs.no-ip.netlogocanaisfishtv.png group-title=Canais  DOCUMENTÁRIOS ,Fish TV HD
+httpsrv.maxptv.net8080max5547max554727207
+#EXTINF-1 tvg-id=FISHHD tvg-name=Fish TV SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosfishtv.png group-title=Canais  DOCUMENTÁRIOS ,Fish TV SD
+httpsrv.maxptv.net8080max5547max554727208
+#EXTINF-1 tvg-id= tvg-name=Fonte TV tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2fontetv.png group-title=Canais  RELIGIÃO,Fonte TV
+httpsrv.maxptv.net8080max5547max554783873
+#EXTINF-1 tvg-id=FNBRHD tvg-name=Food Network HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfoodnetwork.png group-title=Canais  VARIEDADES,Food Network HD
+httpsrv.maxptv.net8080max5547max554727652
+#EXTINF-1 tvg-id=FNBRHD tvg-name=Food Network SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfoodnetwork.png group-title=Canais  VARIEDADES,Food Network SD
+httpsrv.maxptv.net8080max5547max554727653
+#EXTINF-1 tvg-id=FS2HDBR tvg-name=FOX Sports 2 FHD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesfoxsports2.png group-title=Canais  ESPORTES,FOX Sports 2 FHD
+httpsrv.maxptv.net8080max5547max554727281
+#EXTINF-1 tvg-id=FS2HDBR tvg-name=Fox Sports 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesfoxsports2.png group-title=Canais  ESPORTES,Fox Sports 2 HD
+httpsrv.maxptv.net8080max5547max554727282
+#EXTINF-1 tvg-id=FS2HDBR tvg-name=Fox Sports 2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesfoxsports2.png group-title=Canais  ESPORTES,Fox Sports 2 SD
+httpsrv.maxptv.net8080max5547max554727283
+#EXTINF-1 tvg-id=foxsports.br tvg-name=FOX Sports FHD tvg-logo=httplogos.nineuhd.xyzfoxsportshd.png group-title=Canais  ESPORTES,FOX Sports FHD
+httpsrv.maxptv.net8080max5547max554727284
+#EXTINF-1 tvg-id=FR24POR tvg-name=France 24 HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfrance24.png group-title=Canais  MUNDO INTERNACIONAL,France 24 HD
+httpsrv.maxptv.net8080max5547max554748372
+#EXTINF-1 tvg-id=FR24POR tvg-name=France 24 SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesfrance24.png group-title=Canais  MUNDO INTERNACIONAL,France 24 SD
+httpsrv.maxptv.net8080max5547max554748373
+#EXTINF-1 tvg-id= tvg-name=Freakazoid tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24freakzoide.png group-title=Canais  INFANTIL 24 HORAS,Freakazoid
+httpsrv.maxptv.net8080max5547max5547113082
+#EXTINF-1 tvg-id= tvg-name=Friends 24H Ultra HD tvg-logo=httpsassets.turbologo.comblogen20191219084751friends-logo-cover-958x575.png group-title=Canais   24 HORAS,Friends 24H Ultra HD
+httpsrv.maxptv.net8080max5547max554740795
+#EXTINF-1 tvg-id= tvg-name=Funk - Americano tvg-logo=httpsbocs.no-ip.netlogosiptvradiosfunkamericano.png group-title=Canais I RÁDIOS FM,Funk - Americano
+httpsrv.maxptv.net8080max5547max554723540
+#EXTINF-1 tvg-id=FUTRAHD tvg-name=Futura HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosfutura.png group-title=Canais  DOCUMENTÁRIOS ,Futura HD
+httpsrv.maxptv.net8080max5547max554727223
+#EXTINF-1 tvg-id=FUTRAHD tvg-name=Futura SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosfutura.png group-title=Canais  DOCUMENTÁRIOS ,Futura SD
+httpsrv.maxptv.net8080max5547max554727224
+#EXTINF-1 tvg-id= tvg-name=Futurama tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24futurama.png group-title=Canais  INFANTIL 24 HORAS,Futurama
+httpsrv.maxptv.net8080max5547max5547113064
+#EXTINF-1 tvg-id=FXBHD tvg-name=FX FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26537.png group-title=Canais  FILMES E SÉRIES ,FX FHD
+httpsrv.maxptv.net8080max5547max554727353
+#EXTINF-1 tvg-id=FXBHD tvg-name=FX HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26537.png group-title=Canais  FILMES E SÉRIES ,FX HD
+httpsrv.maxptv.net8080max5547max554727354
+#EXTINF-1 tvg-id=FXBHD tvg-name=FX SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26537.png group-title=Canais  FILMES E SÉRIES ,FX SD
+httpsrv.maxptv.net8080max5547max554727355
+#EXTINF-1 tvg-id= tvg-name=Galinha Pintadinha tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24galinhapintadinha.png group-title=Canais  INFANTIL 24 HORAS,Galinha Pintadinha
+httpsrv.maxptv.net8080max5547max5547113078
+#EXTINF-1 tvg-id= tvg-name=Galinha Pintadinha 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h166.png group-title=Canais  INFANTIL 24 HORAS,Galinha Pintadinha 24H
+httpsrv.maxptv.net8080max5547max55471476
+#EXTINF-1 tvg-id= tvg-name=Game of Thrones (2011) tvg-logo=httpsbocs.no-ip.netlogosiptv24horasgameoffthrones.png group-title=Canais   24 HORAS,Game of Thrones (2011)
+httpsrv.maxptv.net8080max5547max5547112831
+#EXTINF-1 tvg-id= tvg-name=Gln Tv tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriesglntv.png group-title= Canais  CLÁSSICOS SÉRIES ,Gln Tv
+httpsrv.maxptv.net8080max5547max554771748
+#EXTINF-1 tvg-id= tvg-name=Globo - Inter TV Cabugi (ST) tvg-logo=httpsrv.maxptv.net8080imagesdf769f617bd7ec86a2ab095f93ee5f7b.png group-title=Canais I GLOBO REGIONAIS,Globo - Inter TV Cabugi (ST)
+httpsrv.maxptv.net8080max5547max554751597
+#EXTINF-1 tvg-id=GloboBrasilia.br tvg-name=GLOBO BRASILIA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO BRASILIA HD
+httpsrv.maxptv.net8080max5547max554750312
+#EXTINF-1 tvg-id=ECAMPHD tvg-name=GLOBO EPTV CAMPINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO EPTV CAMPINAS HD
+httpsrv.maxptv.net8080max5547max554750328
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO EPTV SUL MINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO EPTV SUL MINAS HD
+httpsrv.maxptv.net8080max5547max554750258
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO EPTV SUL MINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO EPTV SUL MINAS HD
+httpsrv.maxptv.net8080max5547max554750314
+#EXTINF-1 tvg-id=intertvgrandeminas.br tvg-name=GLOBO GRANDE MINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO GRANDE MINAS HD
+httpsrv.maxptv.net8080max5547max554750259
+#EXTINF-1 tvg-id=intertvgrandeminas.br tvg-name=GLOBO GRANDE MINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO GRANDE MINAS HD
+httpsrv.maxptv.net8080max5547max554750315
+#EXTINF-1 tvg-id=Globominas.br tvg-name=GLOBO MINAS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO MINAS HD
+httpsrv.maxptv.net8080max5547max554750317
+#EXTINF-1 tvg-id=Globorecife.br tvg-name=GLOBO NORDESTE HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO NORDESTE HD
+httpsrv.maxptv.net8080max5547max554750263
+#EXTINF-1 tvg-id=Globorecife.br tvg-name=GLOBO NORDESTE HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO NORDESTE HD
+httpsrv.maxptv.net8080max5547max554750319
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO NSC FLORIANOPOLIS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO NSC FLORIANOPOLIS HD
+httpsrv.maxptv.net8080max5547max554750264
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO NSC FLORIANOPOLIS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO NSC FLORIANOPOLIS HD
+httpsrv.maxptv.net8080max5547max554750320
+#EXTINF-1 tvg-id=rbstvportoalegre.br tvg-name=GLOBO RBS PORTO ALEGRE HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO RBS PORTO ALEGRE HD
+httpsrv.maxptv.net8080max5547max554750282
+#EXTINF-1 tvg-id=globorbstvportoalegre.br tvg-name=GLOBO RBS PORTO ALEGRE HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO RBS PORTO ALEGRE HD
+httpsrv.maxptv.net8080max5547max554750265
+#EXTINF-1 tvg-id=rbstvportoalegre.br tvg-name=GLOBO RBS PORTO ALEGRE HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO RBS PORTO ALEGRE HD
+httpsrv.maxptv.net8080max5547max554750338
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO REDE AMAZONICA RONDONIA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO REDE AMAZONICA RONDONIA HD
+httpsrv.maxptv.net8080max5547max554750342
+#EXTINF-1 tvg-id=globorj.br tvg-name=GLOBO RJ HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO RJ HD
+httpsrv.maxptv.net8080max5547max554750322
+#EXTINF-1 tvg-id=rpctvcuritiba.br tvg-name=GLOBO RPC CURITIBA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO RPC CURITIBA HD
+httpsrv.maxptv.net8080max5547max554750287
+#EXTINF-1 tvg-id=globosp.br tvg-name=GLOBO SP HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO SP HD
+httpsrv.maxptv.net8080max5547max554750323
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO TV ANHANGUERA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV ANHANGUERA HD
+httpsrv.maxptv.net8080max5547max554750348
+#EXTINF-1 tvg-id=globobahia.br tvg-name=GLOBO TV BAHIA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV BAHIA HD
+httpsrv.maxptv.net8080max5547max554750349
+#EXTINF-1 tvg-id=globotvliberalbelem.br tvg-name=GLOBO TV BELEM HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV BELEM HD
+httpsrv.maxptv.net8080max5547max554750324
+#EXTINF-1 tvg-id=Globosp.br tvg-name=GLOBO TV VANG. S.J. CAMPOS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV VANG. S.J. CAMPOS HD
+httpsrv.maxptv.net8080max5547max554750307
+#EXTINF-1 tvg-id=Globosp.br tvg-name=GLOBO TV VANG. S.J. CAMPOS HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV VANG. S.J. CAMPOS HD
+httpsrv.maxptv.net8080max5547max554750363
+#EXTINF-1 tvg-id=globo.br tvg-name=GLOBO TV VITORIA HD tvg-logo=httpsbocs.no-ip.netlogosiptvglobosglobosregionais.png group-title=Canais I GLOBO REGIONAIS,GLOBO TV VITORIA HD
+httpsrv.maxptv.net8080max5547max554750365
+#EXTINF-1 tvg-id=GLN tvg-name=GloboNews HD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasglobonews.png group-title=Canais  NOTÍCIAS ,GloboNews HD
+httpsrv.maxptv.net8080max5547max5547143
+#EXTINF-1 tvg-id=GLN tvg-name=GloboNews SD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasglobonews.png group-title=Canais  NOTÍCIAS ,GloboNews SD
+httpsrv.maxptv.net8080max5547max5547142
+#EXTINF-1 tvg-id=GLOOB tvg-name=Gloob HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilgloob.png group-title=Canais  INFANTIL,Gloob HD
+httpsrv.maxptv.net8080max5547max554727385
+#EXTINF-1 tvg-id=GLOOB tvg-name=Gloob SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilgloob.png group-title=Canais  INFANTIL,Gloob SD
+httpsrv.maxptv.net8080max5547max554727386
+#EXTINF-1 tvg-id=GNT tvg-name=GNT HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesgnt.png group-title=Canais  VARIEDADES,GNT HD
+httpsrv.maxptv.net8080max5547max554727650
+#EXTINF-1 tvg-id=GNT tvg-name=GNT SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesgnt.png group-title=Canais  VARIEDADES,GNT SD
+httpsrv.maxptv.net8080max5547max554727651
+#EXTINF-1 tvg-id= tvg-name=Greatest Hits of Hip Hop tvg-logo=httpsbocs.no-ip.netlogosiptvradiosgreathiphop.png group-title=Canais I RÁDIOS FM,Greatest Hits of Hip Hop
+httpsrv.maxptv.net8080max5547max554723541
+#EXTINF-1 tvg-id=H2BHD tvg-name=H2 FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosh2.png group-title=Canais  DOCUMENTÁRIOS ,H2 FHD
+httpsrv.maxptv.net8080max5547max554727203
+#EXTINF-1 tvg-id=H2BHD tvg-name=H2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosh2.png group-title=Canais  DOCUMENTÁRIOS ,H2 HD
+httpsrv.maxptv.net8080max5547max554727204
+#EXTINF-1 tvg-id=H2BHD tvg-name=H2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosh2.png group-title=Canais  DOCUMENTÁRIOS ,H2 SD
+httpsrv.maxptv.net8080max5547max554727205
+#EXTINF-1 tvg-id=HBO2Brazil.br tvg-name=HBO 2 FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbo2.png group-title=Canais  HBO,HBO 2 FHD
+httpsrv.maxptv.net8080max5547max554727299
+#EXTINF-1 tvg-id=HBO2Brazil.br tvg-name=HBO 2 HD tvg-logo=httpsbocs.no-ip.netlogocanaishbo2.png group-title=Canais  HBO,HBO 2 HD
+httpsrv.maxptv.net8080max5547max554727300
+#EXTINF-1 tvg-id=HBO2Brazil.br tvg-name=HBO 2 SD tvg-logo=httpsbocs.no-ip.netlogocanaishbo2.png group-title=Canais  HBO,HBO 2 SD
+httpsrv.maxptv.net8080max5547max554727301
+#EXTINF-1 tvg-id=HBOFBE tvg-name=HBO Family FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbofamily.png group-title=Canais  HBO,HBO Family FHD
+httpsrv.maxptv.net8080max5547max554727302
+#EXTINF-1 tvg-id=HBOFBE tvg-name=HBO Family HD tvg-logo=httpsbocs.no-ip.netlogocanaishbofamily.png group-title=Canais  HBO,HBO Family HD
+httpsrv.maxptv.net8080max5547max554727303
+#EXTINF-1 tvg-id=HBOFBE tvg-name=HBO Family SD tvg-logo=httpsbocs.no-ip.netlogocanaishbofamily.png group-title=Canais  HBO,HBO Family SD
+httpsrv.maxptv.net8080max5547max554727304
+#EXTINF-1 tvg-id=ZYA508 tvg-name=HBO FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbo.png group-title=Canais  HBO,HBO FHD
+httpsrv.maxptv.net8080max5547max554727296
+#EXTINF-1 tvg-id=HBOBrazil.br tvg-name=HBO HD tvg-logo=httpsbocs.no-ip.netlogocanaishbo.png group-title=Canais  HBO,HBO HD
+httpsrv.maxptv.net8080max5547max554727297
+#EXTINF-1 tvg-id=HBMAX tvg-name=HBO MAX STAR+ 01 tvg-logo=httpsbocs.no-ip.netlogosiptvhbomaxhbomax1.png group-title=Canais I ESPORTES STREAMING,HBO MAX STAR+ 01
+httpsrv.maxptv.net8080max5547max554747759
+#EXTINF-1 tvg-id=HBMAX tvg-name=HBO MAX STAR+ 02 tvg-logo=httpsbocs.no-ip.netlogosiptvhbomaxhbomax2.png group-title=Canais I ESPORTES STREAMING,HBO MAX STAR+ 02
+httpsrv.maxptv.net8080max5547max554747761
+#EXTINF-1 tvg-id=HBMAX tvg-name=HBO MAX STAR+ 03 tvg-logo=httpsbocs.no-ip.netlogosiptvhbomaxhbomax3.png group-title=Canais I ESPORTES STREAMING,HBO MAX STAR+ 03
+httpsrv.maxptv.net8080max5547max554747760
+#EXTINF-1 tvg-id=HBOMSD tvg-name=HBO Mundi FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbomundi.png group-title=Canais  HBO,HBO Mundi FHD
+httpsrv.maxptv.net8080max5547max554727305
+#EXTINF-1 tvg-id=HBOMSD tvg-name=HBO Mundi HD tvg-logo=httpsbocs.no-ip.netlogocanaishbomundi.png group-title=Canais  HBO,HBO Mundi HD
+httpsrv.maxptv.net8080max5547max554727306
+#EXTINF-1 tvg-id=HBOMSD tvg-name=HBO Mundi SD tvg-logo=httpsbocs.no-ip.netlogocanaishbomundi.png group-title=Canais  HBO,HBO Mundi SD
+httpsrv.maxptv.net8080max5547max554727307
+#EXTINF-1 tvg-id=HBOPB tvg-name=HBO Plus HD tvg-logo=httpsbocs.no-ip.netlogocanaishboplus.png group-title=Canais  HBO,HBO Plus HD
+httpsrv.maxptv.net8080max5547max554727308
+#EXTINF-1 tvg-id=HBOPB tvg-name=HBO Plus SD tvg-logo=httpsbocs.no-ip.netlogocanaishboplus.png group-title=Canais  HBO,HBO Plus SD
+httpsrv.maxptv.net8080max5547max554727309
+#EXTINF-1 tvg-id=HBOPSD tvg-name=HBO Pop FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbopop.png group-title=Canais  HBO,HBO Pop FHD
+httpsrv.maxptv.net8080max5547max554727310
+#EXTINF-1 tvg-id=HBOPSD tvg-name=HBO Pop HD tvg-logo=httpsbocs.no-ip.netlogocanaishbopop.png group-title=Canais  HBO,HBO Pop HD
+httpsrv.maxptv.net8080max5547max554727311
+#EXTINF-1 tvg-id=HBOPSD tvg-name=HBO Pop SD tvg-logo=httpsbocs.no-ip.netlogocanaishbopop.png group-title=Canais  HBO,HBO Pop SD
+httpsrv.maxptv.net8080max5547max554727312
+#EXTINF-1 tvg-id=HBOBrazil.br tvg-name=HBO SD tvg-logo=httpsbocs.no-ip.netlogocanaishbo.png group-title=Canais  HBO,HBO SD
+httpsrv.maxptv.net8080max5547max554727298
+#EXTINF-1 tvg-id=HBOSB tvg-name=HBO Signature FHD tvg-logo=httpsbocs.no-ip.netlogocanaishbosignature.png group-title=Canais  HBO,HBO Signature FHD
+httpsrv.maxptv.net8080max5547max554727313
+#EXTINF-1 tvg-id=HBOSB tvg-name=HBO Signature HD tvg-logo=httpsbocs.no-ip.netlogocanaishbosignature.png group-title=Canais  HBO,HBO Signature HD
+httpsrv.maxptv.net8080max5547max554727314
+#EXTINF-1 tvg-id=HBOSB tvg-name=HBO Signature SD tvg-logo=httpsbocs.no-ip.netlogocanaishbosignature.png group-title=Canais  HBO,HBO Signature SD
+httpsrv.maxptv.net8080max5547max554727315
+#EXTINF-1 tvg-id=HBOXTRM tvg-name=HBO Xtreme FHD tvg-logo=httpsbocs.no-ip.netlogocanaishboxtreme.png group-title=Canais  HBO,HBO Xtreme FHD
+httpsrv.maxptv.net8080max5547max554727316
+#EXTINF-1 tvg-id=HBOXTRM tvg-name=HBO Xtreme HD tvg-logo=httpsbocs.no-ip.netlogocanaishboxtreme.png group-title=Canais  HBO,HBO Xtreme HD
+httpsrv.maxptv.net8080max5547max554727317
+#EXTINF-1 tvg-id=HBOXTRM tvg-name=HBO Xtreme SD tvg-logo=httpsbocs.no-ip.netlogocanaishboxtreme.png group-title=Canais  HBO,HBO Xtreme SD
+httpsrv.maxptv.net8080max5547max554727318
+#EXTINF-1 tvg-id=HGTVBH tvg-name=HGTV HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentarioshgtv.png group-title=Canais  DOCUMENTÁRIOS ,HGTV HD
+httpsrv.maxptv.net8080max5547max554727225
+#EXTINF-1 tvg-id=HGTVBH tvg-name=HGTV SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentarioshgtv.png group-title=Canais  DOCUMENTÁRIOS ,HGTV SD
+httpsrv.maxptv.net8080max5547max554727226
+#EXTINF-1 tvg-id=HCB tvg-name=History Channel FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentarioshistory.png group-title=Canais  DOCUMENTÁRIOS ,History Channel FHD
+httpsrv.maxptv.net8080max5547max554727242
+#EXTINF-1 tvg-id=HCB tvg-name=History Channel HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentarioshistory.png group-title=Canais  DOCUMENTÁRIOS ,History Channel HD
+httpsrv.maxptv.net8080max5547max554727240
+#EXTINF-1 tvg-id=HCB tvg-name=History Channel SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentarioshistory.png group-title=Canais  DOCUMENTÁRIOS ,History Channel SD
+httpsrv.maxptv.net8080max5547max554727241
+#EXTINF-1 tvg-id= tvg-name=Hits 90's tvg-logo=httpsbocs.no-ip.netlogosiptvradioshits90.png group-title=Canais I RÁDIOS FM,Hits 90's
+httpsrv.maxptv.net8080max5547max554723534
+#EXTINF-1 tvg-id=IDBHD tvg-name=ID FHD tvg-logo=httpsbocs.no-ip.netlogocanaisid.png group-title=Canais  FILMES E SÉRIES ,ID FHD
+httpsrv.maxptv.net8080max5547max554727350
+#EXTINF-1 tvg-id=IDBHD tvg-name=ID HD tvg-logo=httpsbocs.no-ip.netlogocanaisid.png group-title=Canais  FILMES E SÉRIES ,ID HD
+httpsrv.maxptv.net8080max5547max554727351
+#EXTINF-1 tvg-id=IDBHD tvg-name=ID SD tvg-logo=httpsbocs.no-ip.netlogocanaisid.png group-title=Canais  FILMES E SÉRIES ,ID SD
+httpsrv.maxptv.net8080max5547max554727352
+#EXTINF-1 tvg-id= tvg-name=Investigação Extraterrestre  tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoveryinvestextra.png group-title=Canais  DISCOVERY+ - 24H,Investigação Extraterrestre 
+httpsrv.maxptv.net8080max5547max5547113025
+#EXTINF-1 tvg-id= tvg-name=Jaspion 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2jaspion.png group-title=Canais   24 HORAS,Jaspion 24H
+httpsrv.maxptv.net8080max5547max5547570
+#EXTINF-1 tvg-id= tvg-name=Johnny Bravo tvg-logo=httpsrv.maxptv.net8080images0624a3c34ec7b5376f23f86de81a49ac.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Johnny Bravo
+httpsrv.maxptv.net8080max5547max5547113223
+#EXTINF-1 tvg-id= tvg-name=Johnny Bravo (1997) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h173.png group-title=Canais  INFANTIL 24 HORAS,Johnny Bravo (1997)
+httpsrv.maxptv.net8080max5547max554742938
+#EXTINF-1 tvg-id= tvg-name=Jovem Pan FM Piracicaba tvg-logo=httpsbocs.no-ip.netlogosiptvradiosjppiracicaba.png group-title=Canais I RÁDIOS FM,Jovem Pan FM Piracicaba
+httpsrv.maxptv.net8080max5547max554723662
+#EXTINF-1 tvg-id=JPNews.br tvg-name=Jovem Pan News HD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasjovempannews.png group-title=Canais  NOTÍCIAS ,Jovem Pan News HD
+httpsrv.maxptv.net8080max5547max554747532
+#EXTINF-1 tvg-id=jovempannews.br tvg-name=Jovem Pan News SD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasjovempannews.png group-title=Canais  NOTÍCIAS ,Jovem Pan News SD
+httpsrv.maxptv.net8080max5547max554747533
+#EXTINF-1 tvg-id= tvg-name=Kick Buttowski Um Projeto de Dublê tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24kickduble.png group-title=Canais  INFANTIL 24 HORAS,Kick Buttowski Um Projeto de Dublê
+httpsrv.maxptv.net8080max5547max5547113077
+#EXTINF-1 tvg-id= tvg-name=Kim Possible (2002) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h175.png group-title=Canais  INFANTIL 24 HORAS,Kim Possible (2002)
+httpsrv.maxptv.net8080max5547max554742935
+#EXTINF-1 tvg-id= tvg-name=KND - A Turma do Bairro tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24kndbairro.png group-title=Canais  INFANTIL 24 HORAS,KND - A Turma do Bairro
+httpsrv.maxptv.net8080max5547max5547113076
+#EXTINF-1 tvg-id= tvg-name=La Casa de Papel S03-05 tvg-logo= group-title=Canais   24 HORAS,La Casa de Papel S03-05
+httpsrv.maxptv.net8080max5547max554771540
+#EXTINF-1 tvg-id= tvg-name=Largados e Pelados S01 tvg-logo=httpsbocs.no-ip.netlogosiptv24horaslargadosepelados.png group-title=Canais  DISCOVERY+ - 24H,Largados e Pelados S01
+httpsrv.maxptv.net8080max5547max554751879
+#EXTINF-1 tvg-id= tvg-name=Largados e Pelados S02 tvg-logo=httpsrv.maxptv.net8080images80f00680ad2fba2b5bebb613ce0803ee.png group-title=Canais  DISCOVERY+ - 24H,Largados e Pelados S02
+httpsrv.maxptv.net8080max5547max554751880
+#EXTINF-1 tvg-id= tvg-name=Largados e Pelados S03 tvg-logo=httpsrv.maxptv.net8080images80f00680ad2fba2b5bebb613ce0803ee.png group-title=Canais  DISCOVERY+ - 24H,Largados e Pelados S03
+httpsrv.maxptv.net8080max5547max554751881
+#EXTINF-1 tvg-id= tvg-name=Largados e Pelados S04 tvg-logo=httpsrv.maxptv.net8080images80f00680ad2fba2b5bebb613ce0803ee.png group-title=Canais  DISCOVERY+ - 24H,Largados e Pelados S04
+httpsrv.maxptv.net8080max5547max554751882
+#EXTINF-1 tvg-id= tvg-name=Largados e Pelados Sozinhos tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverylargadossozinhos.png group-title=Canais  DISCOVERY+ - 24H,Largados e Pelados Sozinhos
+httpsrv.maxptv.net8080max5547max5547113027
+#EXTINF-1 tvg-id= tvg-name=Larva 24H tvg-logo=httpsi.ytimg.comvihNQ_NbLpgE4maxresdefault.jpg group-title=Canais  INFANTIL 24 HORAS,Larva 24H
+httpsrv.maxptv.net8080max5547max55471474
+#EXTINF-1 tvg-id=LIFEBHD tvg-name=Lifetime FHD tvg-logo=httpsbocs.no-ip.netlogocanaislifetime.png group-title=Canais  FILMES E SÉRIES ,Lifetime FHD
+httpsrv.maxptv.net8080max5547max554727347
+#EXTINF-1 tvg-id=LIFEBHD tvg-name=Lifetime HD tvg-logo=httpsbocs.no-ip.netlogocanaislifetime.png group-title=Canais  FILMES E SÉRIES ,Lifetime HD
+httpsrv.maxptv.net8080max5547max554727348
+#EXTINF-1 tvg-id=LIFEBHD tvg-name=Lifetime SD tvg-logo=httpsbocs.no-ip.netlogocanaislifetime.png group-title=Canais  FILMES E SÉRIES ,Lifetime SD
+httpsrv.maxptv.net8080max5547max554727349
+#EXTINF-1 tvg-id= tvg-name=Lion Man 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2lionman.png group-title=Canais   24 HORAS,Lion Man 24H
+httpsrv.maxptv.net8080max5547max55471473
+#EXTINF-1 tvg-id=Loading.br tvg-name=LOADING HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesloading.png group-title=Canais  VARIEDADES,LOADING HD
+httpsrv.maxptv.net8080max5547max554748375
+#EXTINF-1 tvg-id=Loading.br tvg-name=LOADING SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesloading.png group-title=Canais  VARIEDADES,LOADING SD
+httpsrv.maxptv.net8080max5547max554748376
+#EXTINF-1 tvg-id=NOVOTHD tvg-name=MAIS NA TELA HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmaisnatela.png group-title=Canais  VARIEDADES,MAIS NA TELA HD
+httpsrv.maxptv.net8080max5547max554748379
+#EXTINF-1 tvg-id=NOVOTHD tvg-name=MAIS NA TELA SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmaisnatela.png group-title=Canais  VARIEDADES,MAIS NA TELA SD
+httpsrv.maxptv.net8080max5547max554748380
+#EXTINF-1 tvg-id= tvg-name=Markket HD tvg-logo=httpsvcfaz.tvwp-contentuploads202205markkettv-324x160.png group-title=Canais I CORTESIA,Markket HD
+httpsrv.maxptv.net8080max5547max554752363
+#EXTINF-1 tvg-id= tvg-name=Markket SD tvg-logo=httpsvcfaz.tvwp-contentuploads202205markkettv-324x160.png group-title=Canais I CORTESIA,Markket SD
+httpsrv.maxptv.net8080max5547max554752365
+#EXTINF-1 tvg-id= tvg-name=MARVEL & DC 24H tvg-logo=httpsbocs.no-ip.net24rodrigoMarvel&DC.png group-title=Canais   24 HORAS,MARVEL & DC 24H
+httpsrv.maxptv.net8080max5547max5547545
+#EXTINF-1 tvg-id= tvg-name=Masha e o Urso (2009) tvg-logo=httpipstream1.dyndns.bizimagesIprJ0GvLQOZ0VW6fY2AFSfcY93M7PO4IxfcR1DeqrVjJ9eYZw7oBJllm_a6FB11oB_I_S-GFViO2kGPkQ446icIauA3vEQi9NOh3QpMA5GbIpeiAxdeEvddtFHm_f_isWW1n-deExIWX65yTG_b-hEmHQ0PBG8TAKUGy_Ylx2tk.png group-title=Canais  INFANTIL 24 HORAS,Masha e o Urso (2009)
+httpsrv.maxptv.net8080max5547max554786062
+#EXTINF-1 tvg-id=MGPIXHD tvg-name=Megapix HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26549.png group-title=Canais  FILMES,Megapix HD
+httpsrv.maxptv.net8080max5547max554727189
+#EXTINF-1 tvg-id=MGPIXHD tvg-name=Megapix SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26549.png group-title=Canais  FILMES,Megapix SD
+httpsrv.maxptv.net8080max5547max554727190
+#EXTINF-1 tvg-id= tvg-name=Miraculous As Aventuras de LadyBug tvg-logo=httpsrv.maxptv.net8080imagesc74290d94acce5320b26ccd7b280747b.png group-title=Canais  INFANTIL 24 HORAS,Miraculous As Aventuras de LadyBug
+httpsrv.maxptv.net8080max5547max554786088
+#EXTINF-1 tvg-id=+globosat.br tvg-name=Modo Viagem HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmaisglobosat.png group-title=Canais  VARIEDADES,Modo Viagem HD
+httpsrv.maxptv.net8080max5547max554727648
+#EXTINF-1 tvg-id=+globosat.br tvg-name=Modo Viagem SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmaisglobosat.png group-title=Canais  VARIEDADES,Modo Viagem SD
+httpsrv.maxptv.net8080max5547max554727649
+#EXTINF-1 tvg-id= tvg-name=MR. Bean 24H tvg-logo=httpsmaterial.asset.catchplay.comNBC-IN-001-A0184artworkspostersNBC-IN-001-A0184-P544.jpg group-title=Canais   24 HORAS,MR. Bean 24H
+httpsrv.maxptv.net8080max5547max5547546
+#EXTINF-1 tvg-id= tvg-name=Mr. Pickles tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24mrpicles.png group-title=Canais  INFANTIL 24 HORAS,Mr. Pickles
+httpsrv.maxptv.net8080max5547max5547113065
+#EXTINF-1 tvg-id=VH1B tvg-name=MTV 00s FHD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv00.png group-title=Canais  MUSICAIS,MTV 00s FHD
+httpsrv.maxptv.net8080max5547max554727426
+#EXTINF-1 tvg-id=VH1B tvg-name=MTV 00s HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv00.png group-title=Canais  MUSICAIS,MTV 00s HD
+httpsrv.maxptv.net8080max5547max554727427
+#EXTINF-1 tvg-id=VH1B tvg-name=MTV 00s SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv00.png group-title=Canais  MUSICAIS,MTV 00s SD
+httpsrv.maxptv.net8080max5547max554727428
+#EXTINF-1 tvg-id=MTVB tvg-name=MTV FHD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv.png group-title=Canais  MUSICAIS,MTV FHD
+httpsrv.maxptv.net8080max5547max554727429
+#EXTINF-1 tvg-id=MTVB tvg-name=MTV HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv.png group-title=Canais  MUSICAIS,MTV HD
+httpsrv.maxptv.net8080max5547max554727430
+#EXTINF-1 tvg-id=MTVLVOI tvg-name=MTV Live HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtvlive.png group-title=Canais  MUSICAIS,MTV Live HD
+httpsrv.maxptv.net8080max5547max554727425
+#EXTINF-1 tvg-id=MTVLVOI tvg-name=MTV LIVE SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtvlive.png group-title=Canais  MUSICAIS,MTV LIVE SD
+httpsrv.maxptv.net8080max5547max554748362
+#EXTINF-1 tvg-id=MTVB tvg-name=MTV SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismtv.png group-title=Canais  MUSICAIS,MTV SD
+httpsrv.maxptv.net8080max5547max554727431
+#EXTINF-1 tvg-id= tvg-name=Mucha Lucha (2002) tvg-logo=httpsrv.maxptv.net8080images78c8c0adf65c73186facd09396b67e4f.png group-title=Canais  INFANTIL 24 HORAS,Mucha Lucha (2002)
+httpsrv.maxptv.net8080max5547max554786090
+#EXTINF-1 tvg-id=MSW tvg-name=Multishow HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismultshow.png group-title=Canais  MUSICAIS,Multishow HD
+httpsrv.maxptv.net8080max5547max554727432
+#EXTINF-1 tvg-id=MSW tvg-name=Multishow SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaismultshow.png group-title=Canais  MUSICAIS,Multishow SD
+httpsrv.maxptv.net8080max5547max554727433
+#EXTINF-1 tvg-id= tvg-name=Mundo de Gunball 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h183.png group-title=Canais  INFANTIL 24 HORAS,Mundo de Gunball 24H
+httpsrv.maxptv.net8080max5547max554740807
+#EXTINF-1 tvg-id= tvg-name=Mundo de Gunball 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h183.png group-title=Canais  INFANTIL 24 HORAS,Mundo de Gunball 24H
+httpsrv.maxptv.net8080max5547max554740785
+#EXTINF-1 tvg-id= tvg-name=Muquiranas tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverymuqyuiranas.png group-title=Canais  DISCOVERY+ - 24H,Muquiranas
+httpsrv.maxptv.net8080max5547max5547113090
+#EXTINF-1 tvg-id=MBBHD tvg-name=Music Box Brazil HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmusicboxbrasil.png group-title=Canais  MUSICAIS,Music Box Brazil HD
+httpsrv.maxptv.net8080max5547max554748367
+#EXTINF-1 tvg-id=MBBHD tvg-name=Music Box Brazil SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesmusicboxbrasil.png group-title=Canais  MUSICAIS,Music Box Brazil SD
+httpsrv.maxptv.net8080max5547max554748368
+#EXTINF-1 tvg-id= tvg-name=Naruto 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h186.png group-title=Canais  INFANTIL 24 HORAS,Naruto 24H
+httpsrv.maxptv.net8080max5547max5547564
+#EXTINF-1 tvg-id=NGCB tvg-name=National Geographic FHD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosnationalgeografic.png group-title=Canais  DOCUMENTÁRIOS ,National Geographic FHD
+httpsrv.maxptv.net8080max5547max554727237
+#EXTINF-1 tvg-id=NGCB tvg-name=National Geographic HD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosnationalgeografic.png group-title=Canais  DOCUMENTÁRIOS ,National Geographic HD
+httpsrv.maxptv.net8080max5547max554727238
+#EXTINF-1 tvg-id=NGCB tvg-name=National Geographic SD tvg-logo=httpsbocs.no-ip.netlogosiptvdocumentariosnationalgeografic.png group-title=Canais  DOCUMENTÁRIOS ,National Geographic SD
+httpsrv.maxptv.net8080max5547max554727239
+#EXTINF-1 tvg-id=NBAH1 tvg-name=NBA LEAGUE PASS 01 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 01 (PPV)
+httpsrv.maxptv.net8080max5547max554784518
+#EXTINF-1 tvg-id=NBAH2 tvg-name=NBA LEAGUE PASS 02 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 02 (PPV)
+httpsrv.maxptv.net8080max5547max554784519
+#EXTINF-1 tvg-id=NBAH3 tvg-name=NBA LEAGUE PASS 03 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 03 (PPV)
+httpsrv.maxptv.net8080max5547max554784520
+#EXTINF-1 tvg-id=NBAH3 tvg-name=NBA LEAGUE PASS 04 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 04 (PPV)
+httpsrv.maxptv.net8080max5547max554784521
+#EXTINF-1 tvg-id=NBAH5 tvg-name=NBA LEAGUE PASS 05 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 05 (PPV)
+httpsrv.maxptv.net8080max5547max554784522
+#EXTINF-1 tvg-id=NBAH6 tvg-name=NBA LEAGUE PASS 06 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 06 (PPV)
+httpsrv.maxptv.net8080max5547max554784523
+#EXTINF-1 tvg-id=NBAH7 tvg-name=NBA LEAGUE PASS 07 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 07 (PPV)
+httpsrv.maxptv.net8080max5547max554784524
+#EXTINF-1 tvg-id=NBAH8 tvg-name=NBA LEAGUE PASS 08 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 08 (PPV)
+httpsrv.maxptv.net8080max5547max554784525
+#EXTINF-1 tvg-id=NBAH9 tvg-name=NBA LEAGUE PASS 09 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 09 (PPV)
+httpsrv.maxptv.net8080max5547max554784526
+#EXTINF-1 tvg-id=NBAH9 tvg-name=NBA LEAGUE PASS 10 (PPV) tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnbatv.png group-title=Canais I NBA LEAGUE PASS,NBA LEAGUE PASS 10 (PPV)
+httpsrv.maxptv.net8080max5547max554784527
+#EXTINF-1 tvg-id=NHKBRHD tvg-name=NHK HD tvg-logo=httpsbocs.no-ip.netlogosiptvmundonhk.png group-title=Canais  MUNDO INTERNACIONAL,NHK HD
+httpsrv.maxptv.net8080max5547max554727446
+#EXTINF-1 tvg-id=NHKBRHD tvg-name=NHK SD tvg-logo=httpsbocs.no-ip.netlogosiptvmundonhk.png group-title=Canais  MUNDO INTERNACIONAL,NHK SD
+httpsrv.maxptv.net8080max5547max554727447
+#EXTINF-1 tvg-id=NKJRBRZ tvg-name=Nick Jr. HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilnickjr.png group-title=Canais  INFANTIL,Nick Jr. HD
+httpsrv.maxptv.net8080max5547max554727377
+#EXTINF-1 tvg-id=NKJRBRZ tvg-name=Nick Jr. SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilnickjr.png group-title=Canais  INFANTIL,Nick Jr. SD
+httpsrv.maxptv.net8080max5547max554727378
+#EXTINF-1 tvg-id=NICHD tvg-name=Nickelodeon FHD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilnicklodeon.png group-title=Canais  INFANTIL,Nickelodeon FHD
+httpsrv.maxptv.net8080max5547max554727379
+#EXTINF-1 tvg-id=NICHD tvg-name=Nickelodeon HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilnicklodeon.png group-title=Canais  INFANTIL,Nickelodeon HD
+httpsrv.maxptv.net8080max5547max554727380
+#EXTINF-1 tvg-id=NICHD tvg-name=Nickelodeon SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilnicklodeon.png group-title=Canais  INFANTIL,Nickelodeon SD
+httpsrv.maxptv.net8080max5547max554727381
+#EXTINF-1 tvg-id= tvg-name=No Rastro do Pé-Grande tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverypegrande.png group-title=Canais  DISCOVERY+ - 24H,No Rastro do Pé-Grande
+httpsrv.maxptv.net8080max5547max5547113026
+#EXTINF-1 tvg-id= tvg-name=Nosso Futebol 1 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnossofutebol.png group-title= Canais I NOSSO FUTEBOL ,Nosso Futebol 1 HD
+httpsrv.maxptv.net8080max5547max554785681
+#EXTINF-1 tvg-id= tvg-name=Nosso Futebol 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnossofutebol.png group-title= Canais I NOSSO FUTEBOL ,Nosso Futebol 2 HD
+httpsrv.maxptv.net8080max5547max554785682
+#EXTINF-1 tvg-id= tvg-name=Nosso Futebol 3 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnossofutebol.png group-title= Canais I NOSSO FUTEBOL ,Nosso Futebol 3 HD
+httpsrv.maxptv.net8080max5547max554785683
+#EXTINF-1 tvg-id= tvg-name=Nosso Futebol 4 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesnossofutebol.png group-title= Canais I NOSSO FUTEBOL ,Nosso Futebol 4 HD
+httpsrv.maxptv.net8080max5547max554785684
+#EXTINF-1 tvg-id= tvg-name=Nova Brasil FM Campinas tvg-logo=httpsbocs.no-ip.netlogosiptvradiosnovabrasilcampinas.png group-title=Canais I RÁDIOS FM,Nova Brasil FM Campinas
+httpsrv.maxptv.net8080max5547max554723671
+#EXTINF-1 tvg-id= tvg-name=O Laboratório de Dexter (1996) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h189.png group-title=Canais  INFANTIL 24 HORAS,O Laboratório de Dexter (1996)
+httpsrv.maxptv.net8080max5547max554749781
+#EXTINF-1 tvg-id= tvg-name=O Misterioso Triângulo Do Alasca  tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverytrianguloalaska.png group-title=Canais  DISCOVERY+ - 24H,O Misterioso Triângulo Do Alasca 
+httpsrv.maxptv.net8080max5547max5547113028
+#EXTINF-1 tvg-id= tvg-name=O Pequeno Urso (1995) tvg-logo=httpfalko.myddns.meLogosInfantil24h191.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,O Pequeno Urso (1995)
+httpsrv.maxptv.net8080max5547max554749773
+#EXTINF-1 tvg-id= tvg-name=O Show da Luna (2014) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h192.png group-title=Canais  INFANTIL 24 HORAS,O Show da Luna (2014)
+httpsrv.maxptv.net8080max5547max554749801
+#EXTINF-1 tvg-id=CanalOff.br tvg-name=OFF HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadescanaloff.png group-title=Canais  VARIEDADES,OFF HD
+httpsrv.maxptv.net8080max5547max554727656
+#EXTINF-1 tvg-id=CanalOff.br tvg-name=OFF SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadescanaloff.png group-title=Canais  VARIEDADES,OFF SD
+httpsrv.maxptv.net8080max5547max554727657
+#EXTINF-1 tvg-id= tvg-name=Os 3 patetas 24H tvg-logo=httpsbocs.no-ip.net24rodrigo3patetas.png group-title=Canais   24 HORAS,Os 3 patetas 24H
+httpsrv.maxptv.net8080max5547max554719540
+#EXTINF-1 tvg-id= tvg-name=Os Flinstons tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24flintones.png group-title=Canais  INFANTIL 24 HORAS,Os Flinstons
+httpsrv.maxptv.net8080max5547max5547113075
+#EXTINF-1 tvg-id= tvg-name=Os Jetsons (1962) tvg-logo=httpsrv.maxptv.net8080imagesa896b557bdb570a9f8ff21eda6f785b2.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Os Jetsons (1962)
+httpsrv.maxptv.net8080max5547max554786129
+#EXTINF-1 tvg-id= tvg-name=Os Jovens Titas (2003) tvg-logo=httpsrv.maxptv.net8080images4a59c56d6ee17ee19b4012bd3b342429.png group-title=Canais  INFANTIL 24 HORAS,Os Jovens Titas (2003)
+httpsrv.maxptv.net8080max5547max554786096
+#EXTINF-1 tvg-id= tvg-name=Os Padrinhos Magicos (2001) tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h196.png group-title=Canais  INFANTIL 24 HORAS,Os Padrinhos Magicos (2001)
+httpsrv.maxptv.net8080max5547max554749720
+#EXTINF-1 tvg-id= tvg-name=Os Simpsons 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h198.png group-title=Canais  INFANTIL 24 HORAS,Os Simpsons 24H
+httpsrv.maxptv.net8080max5547max5547563
+#EXTINF-1 tvg-id= tvg-name=Os Vingadores 24H tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2vingadores.png group-title=Canais   24 HORAS,Os Vingadores 24H
+httpsrv.maxptv.net8080max5547max55471482
+#EXTINF-1 tvg-id=Rci.br tvg-name=Pai Eterno HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaopaieterno.png group-title=Canais  RELIGIÃO,Pai Eterno HD
+httpsrv.maxptv.net8080max5547max554727450
+#EXTINF-1 tvg-id=PARAMBH tvg-name=Paramount Channel FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26553.png group-title=Canais  FILMES,Paramount Channel FHD
+httpsrv.maxptv.net8080max5547max554727193
+#EXTINF-1 tvg-id=PARAMBH tvg-name=Paramount Channel HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26553.png group-title=Canais  FILMES,Paramount Channel HD
+httpsrv.maxptv.net8080max5547max554727191
+#EXTINF-1 tvg-id=PARAMBH tvg-name=Paramount Channel SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26553.png group-title=Canais  FILMES,Paramount Channel SD
+httpsrv.maxptv.net8080max5547max554727192
+#EXTINF-1 tvg-id= tvg-name=Peppa Pig 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h201.png group-title=Canais  INFANTIL 24 HORAS,Peppa Pig 24H
+httpsrv.maxptv.net8080max5547max5547562
+#EXTINF-1 tvg-id= tvg-name=Pernalonga e Sua Turma tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24pernalongaesuaturma.png group-title=Canais  INFANTIL 24 HORAS,Pernalonga e Sua Turma
+httpsrv.maxptv.net8080max5547max5547113074
+#EXTINF-1 tvg-id= tvg-name=Pinky e o Cérebro tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24pimkecerebro.png group-title=Canais  INFANTIL 24 HORAS,Pinky e o Cérebro
+httpsrv.maxptv.net8080max5547max5547113080
+#EXTINF-1 tvg-id= tvg-name=Pinky Felícia e o Cérebro tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24pinkfeliciaecerebro.png group-title=Canais  INFANTIL 24 HORAS,Pinky Felícia e o Cérebro
+httpsrv.maxptv.net8080max5547max5547113081
+#EXTINF-1 tvg-id=PLAYBR tvg-name=Playboy FHD tvg-logo=httpsbocs.no-ip.netlogosnovosAdulto259.png group-title=Canais  [XXX] ADULTO,Playboy FHD
+httpsrv.maxptv.net8080max5547max554727475
+#EXTINF-1 tvg-id=PLAYBR tvg-name=Playboy HD tvg-logo=httpsbocs.no-ip.netlogosnovosAdulto259.png group-title=Canais  [XXX] ADULTO,Playboy HD
+httpsrv.maxptv.net8080max5547max554727482
+#EXTINF-1 tvg-id=PLAYBR tvg-name=Playboy SD tvg-logo=httpsbocs.no-ip.netlogosnovosAdulto259.png group-title=Canais  [XXX] ADULTO,Playboy SD
+httpsrv.maxptv.net8080max5547max554727483
+#EXTINF-1 tvg-id= tvg-name=Pocoyo 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h204.png group-title=Canais  INFANTIL 24 HORAS,Pocoyo 24H
+httpsrv.maxptv.net8080max5547max5547561
+#EXTINF-1 tvg-id= tvg-name=Pokemon 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h205.png group-title=Canais  INFANTIL 24 HORAS,Pokemon 24H
+httpsrv.maxptv.net8080max5547max5547560
+#EXTINF-1 tvg-id=PLSHOP tvg-name=Polishop TV HD tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2polishop.png group-title=Canais I CORTESIA,Polishop TV HD
+httpsrv.maxptv.net8080max5547max554749113
+#EXTINF-1 tvg-id=PLSHOP tvg-name=Polishop TV SD tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2polishop.png group-title=Canais I CORTESIA,Polishop TV SD
+httpsrv.maxptv.net8080max5547max554749114
+#EXTINF-1 tvg-id=PFCLHD tvg-name=Premiere 1 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere.png group-title=Canais  PREMIERE,Premiere 1 HD
+httpsrv.maxptv.net8080max5547max554727403
+#EXTINF-1 tvg-id=PFCLHD tvg-name=Premiere 1 HD²   tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere.png group-title=Canais  PREMIERE,Premiere 1 HD²  
+httpsrv.maxptv.net8080max5547max554727404
+#EXTINF-1 tvg-id=PFCLHD tvg-name=Premiere 1 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere.png group-title=Canais  PREMIERE,Premiere 1 SD
+httpsrv.maxptv.net8080max5547max554727405
+#EXTINF-1 tvg-id=PR2SHD tvg-name=Premiere 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere2.png group-title=Canais  PREMIERE,Premiere 2 HD
+httpsrv.maxptv.net8080max5547max554727406
+#EXTINF-1 tvg-id=PR2SHD tvg-name=Premiere 2 HD²  tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere2.png group-title=Canais  PREMIERE,Premiere 2 HD² 
+httpsrv.maxptv.net8080max5547max554727407
+#EXTINF-1 tvg-id=PR2SHD tvg-name=Premiere 2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere2.png group-title=Canais  PREMIERE,Premiere 2 SD
+httpsrv.maxptv.net8080max5547max554727408
+#EXTINF-1 tvg-id=PR3UBE tvg-name=Premiere 3 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere3.png group-title=Canais  PREMIERE,Premiere 3 HD
+httpsrv.maxptv.net8080max5547max554727409
+#EXTINF-1 tvg-id=PR3UBE tvg-name=Premiere 3 HD²   tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere3.png group-title=Canais  PREMIERE,Premiere 3 HD²  
+httpsrv.maxptv.net8080max5547max554727410
+#EXTINF-1 tvg-id=PR3UBE tvg-name=Premiere 3 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere3.png group-title=Canais  PREMIERE,Premiere 3 SD
+httpsrv.maxptv.net8080max5547max554727411
+#EXTINF-1 tvg-id=PRMR4 tvg-name=Premiere 4 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere4.png group-title=Canais  PREMIERE,Premiere 4 HD
+httpsrv.maxptv.net8080max5547max554727412
+#EXTINF-1 tvg-id=PRMR4 tvg-name=Premiere 4 HD²   tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere4.png group-title=Canais  PREMIERE,Premiere 4 HD²  
+httpsrv.maxptv.net8080max5547max554727413
+#EXTINF-1 tvg-id=PRMR4 tvg-name=Premiere 4 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere4.png group-title=Canais  PREMIERE,Premiere 4 SD
+httpsrv.maxptv.net8080max5547max554727414
+#EXTINF-1 tvg-id=PR2SPO tvg-name=Premiere 5 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere5.png group-title=Canais  PREMIERE,Premiere 5 HD
+httpsrv.maxptv.net8080max5547max554727415
+#EXTINF-1 tvg-id=PR2SPO tvg-name=Premiere 5 HD²   tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere5.png group-title=Canais  PREMIERE,Premiere 5 HD²  
+httpsrv.maxptv.net8080max5547max554727416
+#EXTINF-1 tvg-id=PR2SPO tvg-name=Premiere 5 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere5.png group-title=Canais  PREMIERE,Premiere 5 SD
+httpsrv.maxptv.net8080max5547max554727417
+#EXTINF-1 tvg-id=PRM6BR tvg-name=Premiere 6 HD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere6.png group-title=Canais  PREMIERE,Premiere 6 HD
+httpsrv.maxptv.net8080max5547max554727418
+#EXTINF-1 tvg-id=PRM6BR tvg-name=Premiere 6 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere6.png group-title=Canais  PREMIERE,Premiere 6 SD
+httpsrv.maxptv.net8080max5547max554727419
+#EXTINF-1 tvg-id=PRM7BR tvg-name=Premiere 7 HD²   tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere7.png group-title=Canais  PREMIERE,Premiere 7 HD²  
+httpsrv.maxptv.net8080max5547max554727421
+#EXTINF-1 tvg-id=PRM7BR tvg-name=Premiere 7 SD tvg-logo=httpsbocs.no-ip.netlogosiptvpremierepremiere7.png group-title=Canais  PREMIERE,Premiere 7 SD
+httpsrv.maxptv.net8080max5547max554727420
+#EXTINF-1 tvg-id=PRMBXHD tvg-name=Prime Box Brazil HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesprimeboxbrasil.png group-title=Canais  FILMES,Prime Box Brazil HD
+httpsrv.maxptv.net8080max5547max554748369
+#EXTINF-1 tvg-id=PRMBXHD tvg-name=Prime Box Brazil SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesprimeboxbrasil.png group-title=Canais  FILMES,Prime Box Brazil SD
+httpsrv.maxptv.net8080max5547max554748370
+#EXTINF-1 tvg-id=CHAMAZ tvg-name=Prime Video 1 HD tvg-logo=httpsrv.maxptv.net8080images46e8dc444ff74cf644c8e8ee8d384f44.png group-title=Canais I ESPORTES STREAMING,Prime Video 1 HD
+httpsrv.maxptv.net8080max5547max554751877
+#EXTINF-1 tvg-id=CHAMAZ tvg-name=Prime Video 2 HD tvg-logo=httpsrv.maxptv.net8080images46e8dc444ff74cf644c8e8ee8d384f44.png group-title=Canais I ESPORTES STREAMING,Prime Video 2 HD
+httpsrv.maxptv.net8080max5547max554751878
+#EXTINF-1 tvg-id= tvg-name=Prime Video 3 HD tvg-logo=httpsrv.maxptv.net8080images46e8dc444ff74cf644c8e8ee8d384f44.png group-title=Canais I ESPORTES STREAMING,Prime Video 3 HD
+httpsrv.maxptv.net8080max5547max5547115201
+#EXTINF-1 tvg-id= tvg-name=Projeto Zeta tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24projetozeta.png group-title=Canais  INFANTIL 24 HORAS,Projeto Zeta
+httpsrv.maxptv.net8080max5547max5547113073
+#EXTINF-1 tvg-id= tvg-name=Radio Mania FM tvg-logo=httpsbocs.no-ip.netlogosiptvradiosmania.png group-title=Canais I RÁDIOS FM,Radio Mania FM
+httpsrv.maxptv.net8080max5547max554723678
+#EXTINF-1 tvg-id= tvg-name=Radio Modão Sertanejo tvg-logo=httpsbocs.no-ip.netlogosiptvradiosmodaosertanejo.png group-title=Canais I RÁDIOS FM,Radio Modão Sertanejo
+httpsrv.maxptv.net8080max5547max554723658
+#EXTINF-1 tvg-id=RaiItaliaAmerica.it tvg-name=RAI HD tvg-logo=httpsbocs.no-ip.netlogosiptvmundorai.png group-title=Canais  MUNDO INTERNACIONAL,RAI HD
+httpsrv.maxptv.net8080max5547max554749137
+#EXTINF-1 tvg-id=RaiItaliaAmerica.it tvg-name=RAI SD tvg-logo=httpsbocs.no-ip.netlogosiptvmundorai.png group-title=Canais  MUNDO INTERNACIONAL,RAI SD
+httpsrv.maxptv.net8080max5547max554749138
+#EXTINF-1 tvg-id= tvg-name=Rap - Internacional tvg-logo=httpsbocs.no-ip.netlogosiptvradiosrapinternaciomal.png group-title=Canais I RÁDIOS FM,Rap - Internacional
+httpsrv.maxptv.net8080max5547max554723538
+#EXTINF-1 tvg-id=RecordItapoan.br tvg-name=RECORD BAHIA HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD BAHIA HD
+httpsrv.maxptv.net8080max5547max554750368
+#EXTINF-1 tvg-id=RecordMinas.br tvg-name=Record BH HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,Record BH HD
+httpsrv.maxptv.net8080max5547max554750369
+#EXTINF-1 tvg-id=ZYB857 tvg-name=Record Campinas HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title=Canais  ABERTOS,Record Campinas HD
+httpsrv.maxptv.net8080max5547max554727145
+#EXTINF-1 tvg-id=ZYB857 tvg-name=Record Campinas SD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title=Canais  ABERTOS,Record Campinas SD
+httpsrv.maxptv.net8080max5547max554727142
+#EXTINF-1 tvg-id=recordtv.br tvg-name=RECORD DF HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD DF HD
+httpsrv.maxptv.net8080max5547max554750370
+#EXTINF-1 tvg-id=RecordGoias.br tvg-name=RECORD DF HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD DF HD
+httpsrv.maxptv.net8080max5547max554750371
+#EXTINF-1 tvg-id=RecordMinas.br tvg-name=RECORD MG HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD MG HD
+httpsrv.maxptv.net8080max5547max554750372
+#EXTINF-1 tvg-id=RECNEW tvg-name=Record News HD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasrecordnews.png group-title=Canais  NOTÍCIAS ,Record News HD
+httpsrv.maxptv.net8080max5547max554767
+#EXTINF-1 tvg-id=RECNEW tvg-name=Record News SD tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiasrecordnews.png group-title=Canais  NOTÍCIAS ,Record News SD
+httpsrv.maxptv.net8080max5547max554766
+#EXTINF-1 tvg-id=RecordNacional.br tvg-name=RECORD PA HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD PA HD
+httpsrv.maxptv.net8080max5547max554750373
+#EXTINF-1 tvg-id=RecordRio.br tvg-name=RECORD RJ HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD RJ HD
+httpsrv.maxptv.net8080max5547max554750374
+#EXTINF-1 tvg-id=RecordRioGrandedoSul.br tvg-name=RECORD RS HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD RS HD
+httpsrv.maxptv.net8080max5547max554750375
+#EXTINF-1 tvg-id=RecordTVSaoPaulo.br tvg-name=RECORD SP HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title= Canais I RECORD REGIONAIS ,RECORD SP HD
+httpsrv.maxptv.net8080max5547max554750376
+#EXTINF-1 tvg-id=RECSPHD tvg-name=Record SP HD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title=Canais  ABERTOS,Record SP HD
+httpsrv.maxptv.net8080max5547max554727143
+#EXTINF-1 tvg-id=RECSPHD tvg-name=Record SP SD tvg-logo=httpsbocs.no-ip.netlogorederecord.png group-title=Canais  ABERTOS,Record SP SD
+httpsrv.maxptv.net8080max5547max554727144
+#EXTINF-1 tvg-id= tvg-name=Rede Brasil de Comunicação tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2redebrasilcomunica.png group-title=Canais  RELIGIÃO,Rede Brasil de Comunicação
+httpsrv.maxptv.net8080max5547max554783869
+#EXTINF-1 tvg-id= tvg-name=Rede Clone Tv tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriesredeclone.png group-title= Canais  CLÁSSICOS SÉRIES ,Rede Clone Tv
+httpsrv.maxptv.net8080max5547max554771751
+#EXTINF-1 tvg-id=RFAM tvg-name=Rede Família SD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaoredefamilia.png group-title=Canais  RELIGIÃO,Rede Família SD
+httpsrv.maxptv.net8080max5547max554748371
+#EXTINF-1 tvg-id=RFAM tvg-name=Rede Família SHD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaoredefamilia.png group-title=Canais  RELIGIÃO,Rede Família SHD
+httpsrv.maxptv.net8080max5547max554731823
+#EXTINF-1 tvg-id= tvg-name=Rede Gospel tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2redegospel.png group-title=Canais  RELIGIÃO,Rede Gospel
+httpsrv.maxptv.net8080max5547max554783868
+#EXTINF-1 tvg-id=RV tvg-name=Rede Vida HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaoredevida.png group-title=Canais  RELIGIÃO,Rede Vida HD
+httpsrv.maxptv.net8080max5547max554727456
+#EXTINF-1 tvg-id=RV tvg-name=Rede Vida SD tvg-logo=httpsupload.wikimedia.orgwikipediacommons00cRede_Vida_logo.png group-title=Canais  ABERTOS,Rede Vida SD
+httpsrv.maxptv.net8080max5547max554727137
+#EXTINF-1 tvg-id=REDETV tvg-name=RedeTV HD tvg-logo=httpsbocs.no-ip.netlogoredetv.png group-title=Canais  ABERTOS,RedeTV HD
+httpsrv.maxptv.net8080max5547max554727138
+#EXTINF-1 tvg-id=RDSPHD tvg-name=RedeTV SD tvg-logo=httpsbocs.no-ip.netlogoredetv.png group-title=Canais  ABERTOS,RedeTV SD
+httpsrv.maxptv.net8080max5547max554727139
+#EXTINF-1 tvg-id= tvg-name=Retrô Cartoon tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosseriesretrocartoon.png group-title= Canais  CLÁSSICOS SÉRIES ,Retrô Cartoon
+httpsrv.maxptv.net8080max5547max554771749
+#EXTINF-1 tvg-id=TVRaTimBum.br tvg-name=Rá -Tim Bum- HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilratimbum.png group-title=Canais  INFANTIL,Rá -Tim Bum- HD
+httpsrv.maxptv.net8080max5547max554727375
+#EXTINF-1 tvg-id=TVRaTimBum.br tvg-name=Rá- Tim- Bum SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilratimbum.png group-title=Canais  INFANTIL,Rá- Tim- Bum SD
+httpsrv.maxptv.net8080max5547max554727376
+#EXTINF-1 tvg-id= tvg-name=Rádio 105 FM tvg-logo=httpsbocs.no-ip.netlogosiptvradios105.png group-title=Canais I RÁDIOS FM,Rádio 105 FM
+httpsrv.maxptv.net8080max5547max554723674
+#EXTINF-1 tvg-id= tvg-name=Rádio Antena 1 São Paulo tvg-logo=httpsbocs.no-ip.netlogosiptvradiosantena1sp.png group-title=Canais I RÁDIOS FM,Rádio Antena 1 São Paulo
+httpsrv.maxptv.net8080max5547max554723659
+#EXTINF-1 tvg-id= tvg-name=Rádio Coringão tvg-logo=httpsbocs.no-ip.netlogosiptvradiosradiocorinthians.png group-title=Canais I RÁDIOS FM,Rádio Coringão
+httpsrv.maxptv.net8080max5547max554723660
+#EXTINF-1 tvg-id= tvg-name=Rádio Hunter FM Sertanejo tvg-logo=httpsbocs.no-ip.netlogosiptvradioshunter.png group-title=Canais I RÁDIOS FM,Rádio Hunter FM Sertanejo
+httpsrv.maxptv.net8080max5547max554723657
+#EXTINF-1 tvg-id= tvg-name=Rádio Laser FM Campinas tvg-logo=httpsbocs.no-ip.netlogosiptvradioslaserfm.png group-title=Canais I RÁDIOS FM,Rádio Laser FM Campinas
+httpsrv.maxptv.net8080max5547max554723656
+#EXTINF-1 tvg-id= tvg-name=Rádio Samba FM tvg-logo=httpsbocs.no-ip.netlogosiptvradiossambapagode.png group-title=Canais I RÁDIOS FM,Rádio Samba FM
+httpsrv.maxptv.net8080max5547max554723654
+#EXTINF-1 tvg-id= tvg-name=Sabor & Arte HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadessaborearte.png group-title=Canais  VARIEDADES,Sabor & Arte HD
+httpsrv.maxptv.net8080max5547max554748354
+#EXTINF-1 tvg-id= tvg-name=Sabor & Arte SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadessaborearte.png group-title=Canais  VARIEDADES,Sabor & Arte SD
+httpsrv.maxptv.net8080max5547max554748355
+#EXTINF-1 tvg-id= tvg-name=Samurai Jack (2001) tvg-logo=httpsrv.maxptv.net8080imagese46a811a6d07eb8c1cfdf492337399e8.png group-title=Canais  INFANTIL 24 HORAS,Samurai Jack (2001)
+httpsrv.maxptv.net8080max5547max554786104
+#EXTINF-1 tvg-id=SBT tvg-name=SBT HD Alternativo tvg-logo=httpsbocs.no-ip.netlogosbt.png group-title=Canais  ABERTOS,SBT HD Alternativo
+httpsrv.maxptv.net8080max5547max554773186
+#EXTINF-1 tvg-id=SBT tvg-name=SBT HD tvg-logo=httpsbocs.no-ip.netlogosbt.png group-title=Canais  ABERTOS,SBT HD
+httpsrv.maxptv.net8080max5547max554727140
+#EXTINF-1 tvg-id=SBT tvg-name=SBT SD tvg-logo=httpsbocs.no-ip.netlogosbt.png group-title=Canais  ABERTOS,SBT SD
+httpsrv.maxptv.net8080max5547max554727141
+#EXTINF-1 tvg-id= tvg-name=Scooby-Doo tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24scoob.png group-title=Canais  INFANTIL 24 HORAS,Scooby-Doo
+httpsrv.maxptv.net8080max5547max5547113072
+#EXTINF-1 tvg-id= tvg-name=Scooby-Doo e os 13 Fantasmas tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24scoob13.png group-title=Canais  INFANTIL 24 HORAS,Scooby-Doo e os 13 Fantasmas
+httpsrv.maxptv.net8080max5547max5547113071
+#EXTINF-1 tvg-id= tvg-name=Scooby-Doo O Que Há de Novo tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24scooboqueha.png group-title=Canais  INFANTIL 24 HORAS,Scooby-Doo O Que Há de Novo
+httpsrv.maxptv.net8080max5547max5547113070
+#EXTINF-1 tvg-id=SEXTRMB tvg-name=Sextreme HD tvg-logo=httplogos.nineuhd.xyzsextreme.png group-title=Canais  [XXX] ADULTO,Sextreme HD
+httpsrv.maxptv.net8080max5547max554727478
+#EXTINF-1 tvg-id=SEXTRMB tvg-name=Sextreme SD tvg-logo=httpsrv.maxptv.net8080images5558be54499fdd094ce5235eb309c348.png group-title=Canais  [XXX] ADULTO,Sextreme SD
+httpsrv.maxptv.net8080max5547max554727479
+#EXTINF-1 tvg-id=SEXYHOT tvg-name=Sexy Hot HD tvg-logo=httplogos.nineuhd.xyzsexyhot.png group-title=Canais  [XXX] ADULTO,Sexy Hot HD
+httpsrv.maxptv.net8080max5547max554727480
+#EXTINF-1 tvg-id=sexyhot.br tvg-name=Sexy Hot SD tvg-logo=httplogos.nineuhd.xyzsexyhot.png group-title=Canais  [XXX] ADULTO,Sexy Hot SD
+httpsrv.maxptv.net8080max5547max554727481
+#EXTINF-1 tvg-id=SHPT tvg-name=Shoptime HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiashoptime.png group-title=Canais I CORTESIA,Shoptime HD
+httpsrv.maxptv.net8080max5547max554749123
+#EXTINF-1 tvg-id=SHPT tvg-name=Shoptime SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiashoptime.png group-title=Canais I CORTESIA,Shoptime SD
+httpsrv.maxptv.net8080max5547max554749124
+#EXTINF-1 tvg-id=SPACEHB tvg-name=Space FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26555.png group-title=Canais  FILMES,Space FHD
+httpsrv.maxptv.net8080max5547max554727194
+#EXTINF-1 tvg-id=SPACEHB tvg-name=Space HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26555.png group-title=Canais  FILMES,Space HD
+httpsrv.maxptv.net8080max5547max554727195
+#EXTINF-1 tvg-id=SPACEHB tvg-name=Space SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26555.png group-title=Canais  FILMES,Space SD
+httpsrv.maxptv.net8080max5547max554727196
+#EXTINF-1 tvg-id=SP2HDOI tvg-name=SporTV 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv2.png group-title=Canais  ESPORTES,SporTV 2 HD
+httpsrv.maxptv.net8080max5547max554727277
+#EXTINF-1 tvg-id=SP2HDOI tvg-name=SporTV 2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv2.png group-title=Canais  ESPORTES,SporTV 2 SD
+httpsrv.maxptv.net8080max5547max554727278
+#EXTINF-1 tvg-id=SP3HDOI tvg-name=SporTV 3 HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv3.png group-title=Canais  ESPORTES,SporTV 3 HD
+httpsrv.maxptv.net8080max5547max554727279
+#EXTINF-1 tvg-id=SP3HDOI tvg-name=SporTV 3 SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv3.png group-title=Canais  ESPORTES,SporTV 3 SD
+httpsrv.maxptv.net8080max5547max554727280
+#EXTINF-1 tvg-id=SPORVHD tvg-name=SporTV HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv.png group-title=Canais  ESPORTES,SporTV HD
+httpsrv.maxptv.net8080max5547max554727275
+#EXTINF-1 tvg-id=SPORVHD tvg-name=SporTV SD tvg-logo=httpsbocs.no-ip.netlogosiptvesportessportv.png group-title=Canais  ESPORTES,SporTV SD
+httpsrv.maxptv.net8080max5547max554727276
+#EXTINF-1 tvg-id=StarChannelBrazil.br tvg-name=Star Channel FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26557.png group-title=Canais  FILMES E SÉRIES ,Star Channel FHD
+httpsrv.maxptv.net8080max5547max554727364
+#EXTINF-1 tvg-id=StarChannelBrazil.br tvg-name=Star Channel HD tvg-logo=httpsbocs.no-ip.netlogosnovosH26557.png group-title=Canais  FILMES E SÉRIES ,Star Channel HD
+httpsrv.maxptv.net8080max5547max554727363
+#EXTINF-1 tvg-id=StarChannelBrazil.br tvg-name=Star Channel SD tvg-logo=httpsbocs.no-ip.netlogosnovosH26557.png group-title=Canais  FILMES E SÉRIES ,Star Channel SD
+httpsrv.maxptv.net8080max5547max554727356
+#EXTINF-1 tvg-id= tvg-name=Star Plus HD tvg-logo=httpsbocs.no-ip.netlogosiptvesportesstarplus2.png group-title=Canais I ESPORTES STREAMING,Star Plus HD
+httpsrv.maxptv.net8080max5547max554746598
+#EXTINF-1 tvg-id= tvg-name=Star Plus HD 2 tvg-logo=httpsbocs.no-ip.netlogosiptvesportesstarplus2.png group-title=Canais I ESPORTES STREAMING,Star Plus HD 2
+httpsrv.maxptv.net8080max5547max554746599
+#EXTINF-1 tvg-id=STUBR tvg-name=Studio Universal HD tvg-logo=httpsbocs.no-ip.netlogouniversalchannel.png group-title=Canais  FILMES E SÉRIES ,Studio Universal HD
+httpsrv.maxptv.net8080max5547max554727337
+#EXTINF-1 tvg-id=STUBR tvg-name=Studio Universal SD tvg-logo=httpsbocs.no-ip.netlogouniversalchannel.png group-title=Canais  FILMES E SÉRIES ,Studio Universal SD
+httpsrv.maxptv.net8080max5547max554727338
+#EXTINF-1 tvg-id= tvg-name=Super Amigos (1973) tvg-logo=httpfalko.myddns.meLogosInfantil24h207.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Super Amigos (1973)
+httpsrv.maxptv.net8080max5547max554749739
+#EXTINF-1 tvg-id= tvg-name=Superman A Série Animada (1996) tvg-logo=httpfalko.myddns.meLogosInfantil24h208.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Superman A Série Animada (1996)
+httpsrv.maxptv.net8080max5547max554749763
+#EXTINF-1 tvg-id= tvg-name=Supernatural S01-07 tvg-logo=httpsbocs.no-ip.netlogosiptv24horassupernatural.png group-title=Canais   24 HORAS,Supernatural S01-07
+httpsrv.maxptv.net8080max5547max554771542
+#EXTINF-1 tvg-id= tvg-name=Supernatural S07-15 tvg-logo=httpsbocs.no-ip.netlogosiptv24horassupernatural.png group-title=Canais   24 HORAS,Supernatural S07-15
+httpsrv.maxptv.net8080max5547max554771544
+#EXTINF-1 tvg-id=SYFYBHD tvg-name=Syfy FHD tvg-logo=httpsrv.maxptv.net8080images8d7eecbb2c298e8dc11e847ccf0c2a9e.png group-title=Canais  FILMES E SÉRIES ,Syfy FHD
+httpsrv.maxptv.net8080max5547max554727339
+#EXTINF-1 tvg-id=SYFYBHD tvg-name=Syfy HD tvg-logo=httpsrv.maxptv.net8080images8d7eecbb2c298e8dc11e847ccf0c2a9e.png group-title=Canais  FILMES E SÉRIES ,Syfy HD
+httpsrv.maxptv.net8080max5547max554727340
+#EXTINF-1 tvg-id=SYFYBHD tvg-name=Syfy SD tvg-logo=httpsrv.maxptv.net8080images8d7eecbb2c298e8dc11e847ccf0c2a9e.png group-title=Canais  FILMES E SÉRIES ,Syfy SD
+httpsrv.maxptv.net8080max5547max554727341
+#EXTINF-1 tvg-id= tvg-name=Sítio do Pica Pau Amarelo 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h209.png group-title=Canais  INFANTIL 24 HORAS,Sítio do Pica Pau Amarelo 24H
+httpsrv.maxptv.net8080max5547max554740817
+#EXTINF-1 tvg-id= tvg-name=Sítio do Pica Pau Amarelo 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h209.png group-title=Canais  INFANTIL 24 HORAS,Sítio do Pica Pau Amarelo 24H
+httpsrv.maxptv.net8080max5547max554740796
+#EXTINF-1 tvg-id= tvg-name=Taz-Mania (1991) tvg-logo=httpsrv.maxptv.net8080images48dfbd92636215b8839df4b2c587b55b.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Taz-Mania (1991)
+httpsrv.maxptv.net8080max5547max554786135
+#EXTINF-1 tvg-id=BRZTBSH tvg-name=TBS FHD tvg-logo=httpsbocs.no-ip.netlogocanaistbs.png group-title=Canais  FILMES E SÉRIES ,TBS FHD
+httpsrv.maxptv.net8080max5547max554727342
+#EXTINF-1 tvg-id=BRZTBSH tvg-name=TBS HD tvg-logo=httpsbocs.no-ip.netlogocanaistbs.png group-title=Canais  FILMES E SÉRIES ,TBS HD
+httpsrv.maxptv.net8080max5547max554727343
+#EXTINF-1 tvg-id=BRZTBSH tvg-name=TBS SD tvg-logo=httpsbocs.no-ip.netlogocanaistbs.png group-title=Canais  FILMES E SÉRIES ,TBS SD
+httpsrv.maxptv.net8080max5547max554727344
+#EXTINF-1 tvg-id=TCMB tvg-name=TCM HD tvg-logo=httplogos.nineuhd.xyztcm.png group-title=Canais  FILMES,TCM HD
+httpsrv.maxptv.net8080max5547max554727197
+#EXTINF-1 tvg-id=TCMB tvg-name=TCM SD tvg-logo=httplogos.nineuhd.xyztcm.png group-title=Canais  FILMES,TCM SD
+httpsrv.maxptv.net8080max5547max554727198
+#EXTINF-1 tvg-id=TCA tvg-name=Telecine Action FHD tvg-logo=httpsbocs.no-ip.netlogocanaistelecineaction.png group-title=Canais  TELECINE,Telecine Action FHD
+httpsrv.maxptv.net8080max5547max554727457
+#EXTINF-1 tvg-id=TCA tvg-name=Telecine Action HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecineaction.png group-title=Canais  TELECINE,Telecine Action HD
+httpsrv.maxptv.net8080max5547max554727458
+#EXTINF-1 tvg-id=TCA tvg-name=Telecine Action SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecineaction.png group-title=Canais  TELECINE,Telecine Action SD
+httpsrv.maxptv.net8080max5547max554727459
+#EXTINF-1 tvg-id=TCCL tvg-name=Telecine Cult FHD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinecult.png group-title=Canais  TELECINE,Telecine Cult FHD
+httpsrv.maxptv.net8080max5547max554727460
+#EXTINF-1 tvg-id=TCCL tvg-name=Telecine Cult HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinecult.png group-title=Canais  TELECINE,Telecine Cult HD
+httpsrv.maxptv.net8080max5547max554727461
+#EXTINF-1 tvg-id=TCCL tvg-name=Telecine Cult SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinecult.png group-title=Canais  TELECINE,Telecine Cult SD
+httpsrv.maxptv.net8080max5547max554727462
+#EXTINF-1 tvg-id=TCF tvg-name=Telecine Fun HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinefun.png group-title=Canais  TELECINE,Telecine Fun HD
+httpsrv.maxptv.net8080max5547max554727463
+#EXTINF-1 tvg-id=TCF tvg-name=Telecine Fun SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinefun.png group-title=Canais  TELECINE,Telecine Fun SD
+httpsrv.maxptv.net8080max5547max554727464
+#EXTINF-1 tvg-id=TCPIP tvg-name=Telecine Pipoca FHD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepipoca.png group-title=Canais  TELECINE,Telecine Pipoca FHD
+httpsrv.maxptv.net8080max5547max554727465
+#EXTINF-1 tvg-id=TCPIP tvg-name=Telecine Pipoca HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepipoca.png group-title=Canais  TELECINE,Telecine Pipoca HD
+httpsrv.maxptv.net8080max5547max554727466
+#EXTINF-1 tvg-id=TCPIP tvg-name=Telecine Pipoca SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepipoca.png group-title=Canais  TELECINE,Telecine Pipoca SD
+httpsrv.maxptv.net8080max5547max554727467
+#EXTINF-1 tvg-id=TCP tvg-name=Telecine Premium FHD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepremiun.png group-title=Canais  TELECINE,Telecine Premium FHD
+httpsrv.maxptv.net8080max5547max554727469
+#EXTINF-1 tvg-id=TCP tvg-name=Telecine Premium HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepremiun.png group-title=Canais  TELECINE,Telecine Premium HD
+httpsrv.maxptv.net8080max5547max554727468
+#EXTINF-1 tvg-id=TCP tvg-name=Telecine Premium SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinepremiun.png group-title=Canais  TELECINE,Telecine Premium SD
+httpsrv.maxptv.net8080max5547max554727470
+#EXTINF-1 tvg-id=TCTCH tvg-name=Telecine Touch FHD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinetouch.png group-title=Canais  TELECINE,Telecine Touch FHD
+httpsrv.maxptv.net8080max5547max554727471
+#EXTINF-1 tvg-id=TCTCH tvg-name=Telecine Touch HD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinetouch.png group-title=Canais  TELECINE,Telecine Touch HD
+httpsrv.maxptv.net8080max5547max554727472
+#EXTINF-1 tvg-id=TCTCH tvg-name=Telecine Touch SD tvg-logo=httpsbocs.no-ip.netlogocanaistelecinetouch.png group-title=Canais  TELECINE,Telecine Touch SD
+httpsrv.maxptv.net8080max5547max554727473
+#EXTINF-1 tvg-id=TVIVAHD tvg-name=Terra Viva HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaterraviva.png group-title=Canais I CORTESIA,Terra Viva HD
+httpsrv.maxptv.net8080max5547max554749048
+#EXTINF-1 tvg-id=TVIVAHD tvg-name=Terra Viva SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiaterraviva.png group-title=Canais I CORTESIA,Terra Viva SD
+httpsrv.maxptv.net8080max5547max554749049
+#EXTINF-1 tvg-id= tvg-name=The Backyardigans 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h211.png group-title=Canais  INFANTIL 24 HORAS,The Backyardigans 24H
+httpsrv.maxptv.net8080max5547max554740808
+#EXTINF-1 tvg-id= tvg-name=The Backyardigans 24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h211.png group-title=Canais  INFANTIL 24 HORAS,The Backyardigans 24H
+httpsrv.maxptv.net8080max5547max554740786
+#EXTINF-1 tvg-id= tvg-name=The Big Bang Theory 24H tvg-logo=httpsportalovertube.comwp-contentuploads201408big-bang-theory.png group-title=Canais   24 HORAS,The Big Bang Theory 24H
+httpsrv.maxptv.net8080max5547max5547543
+#EXTINF-1 tvg-id= tvg-name=The Walking Dead (2010) tvg-logo=httpsbocs.no-ip.netlogosiptv24horasthewalking.png group-title=Canais   24 HORAS,The Walking Dead (2010)
+httpsrv.maxptv.net8080max5547max5547112838
+#EXTINF-1 tvg-id= tvg-name=ThunderCats (2011) tvg-logo=httpfalko.myddns.meLogosInfantil24h212.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,ThunderCats (2011)
+httpsrv.maxptv.net8080max5547max554749741
+#EXTINF-1 tvg-id= tvg-name=ThunderCats 24H Ultra HD tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h212.png group-title=Canais  INFANTIL 24 HORAS,ThunderCats 24H Ultra HD
+httpsrv.maxptv.net8080max5547max554740815
+#EXTINF-1 tvg-id= tvg-name=ThunderCats 24H Ultra HD tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h212.png group-title=Canais  INFANTIL 24 HORAS,ThunderCats 24H Ultra HD
+httpsrv.maxptv.net8080max5547max554740794
+#EXTINF-1 tvg-id= tvg-name=Tico e Teco e os Defensores da Lei tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24ticoteco.png group-title=Canais  INFANTIL 24 HORAS,Tico e Teco e os Defensores da Lei
+httpsrv.maxptv.net8080max5547max5547113068
+#EXTINF-1 tvg-id= tvg-name=Timão e Pumba (1995) tvg-logo=httpsrv.maxptv.net8080images6e354b30072277c2525148089ef2b3cf.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Timão e Pumba (1995)
+httpsrv.maxptv.net8080max5547max554786137
+#EXTINF-1 tvg-id=TLCBRAZ tvg-name=TLC HD tvg-logo=httpsrv.maxptv.net8080images3eda66e6f75fcff54bca6f421fb35a38.png group-title=Canais  VARIEDADES,TLC HD
+httpsrv.maxptv.net8080max5547max554727646
+#EXTINF-1 tvg-id=TLCBRAZ tvg-name=TLC SD tvg-logo=httpsrv.maxptv.net8080images3eda66e6f75fcff54bca6f421fb35a38.png group-title=Canais  VARIEDADES,TLC SD
+httpsrv.maxptv.net8080max5547max554727647
+#EXTINF-1 tvg-id=TNTHDB tvg-name=TNT FHD tvg-logo=httpsbocs.no-ip.netlogosnovosH26565.png group-title=Canais  FILMES,TNT FHD
+httpsrv.maxptv.net8080max5547max554727199
+#EXTINF-1 tvg-id=TNTHDB tvg-name=TNT HD ² tvg-logo=httpsbocs.no-ip.netlogosnovosH26565.png group-title=Canais  FILMES,TNT HD ²
+httpsrv.maxptv.net8080max5547max554727201
+#EXTINF-1 tvg-id= tvg-name=TNT Sports 2 Brasil tvg-logo=httpsbocs.no-ip.netlogosiptvnntntnovo.png group-title=Canais I TNT SPORTS,TNT Sports 2 Brasil
+httpsrv.maxptv.net8080max5547max554783853
+#EXTINF-1 tvg-id= tvg-name=TNT Sports 3 Brasil tvg-logo=httpsbocs.no-ip.netlogosiptvnntntnovo.png group-title=Canais I TNT SPORTS,TNT Sports 3 Brasil
+httpsrv.maxptv.net8080max5547max554783854
+#EXTINF-1 tvg-id= tvg-name=TNT Sports 4 Brasil tvg-logo=httpsbocs.no-ip.netlogosiptvnntntnovo.png group-title=Canais I TNT SPORTS,TNT Sports 4 Brasil
+httpsrv.maxptv.net8080max5547max554783855
+#EXTINF-1 tvg-id= tvg-name=TNT Sports 5 Brasil tvg-logo=httpsbocs.no-ip.netlogosiptvnntntnovo.png group-title=Canais I TNT SPORTS,TNT Sports 5 Brasil
+httpsrv.maxptv.net8080max5547max554783856
+#EXTINF-1 tvg-id=TNTSBHD tvg-name=TNT Séries FHD tvg-logo=httpsbocs.no-ip.netlogocanaistntseries.png group-title=Canais  FILMES E SÉRIES ,TNT Séries FHD
+httpsrv.maxptv.net8080max5547max554727334
+#EXTINF-1 tvg-id=TNTSBHD tvg-name=TNT Séries HD tvg-logo=httpsbocs.no-ip.netlogocanaistntseries.png group-title=Canais  FILMES E SÉRIES ,TNT Séries HD
+httpsrv.maxptv.net8080max5547max554727335
+#EXTINF-1 tvg-id=TNTSBHD tvg-name=TNT Séries SD tvg-logo=httpsbocs.no-ip.netlogocanaistntseries.png group-title=Canais  FILMES E SÉRIES ,TNT Séries SD
+httpsrv.maxptv.net8080max5547max554727336
+#EXTINF-1 tvg-id=TNTHDB tvg-name=TNT [HD] tvg-logo=httpsbocs.no-ip.netlogosnovosH26565.png group-title=Canais  FILMES,TNT [HD]
+httpsrv.maxptv.net8080max5547max554727200
+#EXTINF-1 tvg-id=TNTHDB tvg-name=TNT [SD] tvg-logo=httpsbocs.no-ip.netlogosnovosH26565.png group-title=Canais  FILMES,TNT [SD]
+httpsrv.maxptv.net8080max5547max554727202
+#EXTINF-1 tvg-id= tvg-name=Todo Mundo Odeia o Cris tvg-logo=httpsbocs.no-ip.netlogotodomundoodeiaocris.png group-title=Canais   24 HORAS,Todo Mundo Odeia o Cris
+httpsrv.maxptv.net8080max5547max5547317
+#EXTINF-1 tvg-id= tvg-name=Tom & Jerry  24H tvg-logo=httpsbocs.no-ip.netlogosnovosInfantil24h213.png group-title=Canais  INFANTIL 24 HORAS,Tom & Jerry  24H
+httpsrv.maxptv.net8080max5547max5547557
+#EXTINF-1 tvg-id= tvg-name=Tom e Jerry (1975) tvg-logo=httpfalko.myddns.meLogosInfantil24h214.png group-title= Canais  CLÁSSICOS DESENHOS 24 HORAS ,Tom e Jerry (1975)
+httpsrv.maxptv.net8080max5547max554749768
+#EXTINF-1 tvg-id=TOONCB tvg-name=Tooncast HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantiltooncast.png group-title=Canais  INFANTIL,Tooncast HD
+httpsrv.maxptv.net8080max5547max554727373
+#EXTINF-1 tvg-id=TOONCB tvg-name=Tooncast SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantiltooncast.png group-title=Canais  INFANTIL,Tooncast SD
+httpsrv.maxptv.net8080max5547max554727374
+#EXTINF-1 tvg-id=TBRAZUC tvg-name=Trace Brazuca HD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaistracebrazucas.png group-title=Canais  MUSICAIS,Trace Brazuca HD
+httpsrv.maxptv.net8080max5547max554750415
+#EXTINF-1 tvg-id=TBRAZUC tvg-name=Trace Brazuca SD tvg-logo=httpsbocs.no-ip.netlogosiptvmusicaistracebrazucas.png group-title=Canais  MUSICAIS,Trace Brazuca SD
+httpsrv.maxptv.net8080max5547max554750414
+#EXTINF-1 tvg-id=TRABRHD tvg-name=Travel Box Brazil HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadestravelbosbrasil.png group-title=Canais I CORTESIA,Travel Box Brazil HD
+httpsrv.maxptv.net8080max5547max554748335
+#EXTINF-1 tvg-id=TRABRHD tvg-name=Travel Box Brazil SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadestravelbosbrasil.png group-title=Canais I CORTESIA,Travel Box Brazil SD
+httpsrv.maxptv.net8080max5547max554748336
+#EXTINF-1 tvg-id= tvg-name=Três Espiãs Demais! tvg-logo=httpsbocs.no-ip.netlogosiptvdesenhos24tresespiasdemais.png group-title=Canais  INFANTIL 24 HORAS,Três Espiãs Demais!
+httpsrv.maxptv.net8080max5547max5547113067
+#EXTINF-1 tvg-id=APAR tvg-name=TV Aparecida HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaotvaparecida.png group-title=Canais  RELIGIÃO,TV Aparecida HD
+httpsrv.maxptv.net8080max5547max554727454
+#EXTINF-1 tvg-id=APAR tvg-name=TV Aparecida SD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaotvaparecida.png group-title=Canais  RELIGIÃO,TV Aparecida SD
+httpsrv.maxptv.net8080max5547max554727455
+#EXTINF-1 tvg-id=TVBRHD tvg-name=TV Brasil  HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvbrasil.png group-title=Canais I CORTESIA,TV Brasil  HD
+httpsrv.maxptv.net8080max5547max554747534
+#EXTINF-1 tvg-id=TVEB2HD tvg-name=TV Brasil 2 HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvbrasil2.png group-title=Canais I CORTESIA,TV Brasil 2 HD
+httpsrv.maxptv.net8080max5547max554749111
+#EXTINF-1 tvg-id=TVEB2HD tvg-name=TV Brasil 2 SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvbrasil2.png group-title=Canais I CORTESIA,TV Brasil 2 SD
+httpsrv.maxptv.net8080max5547max554749112
+#EXTINF-1 tvg-id=TVBRHD tvg-name=TV Brasil FHD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvbrasil.png group-title=Canais I CORTESIA,TV Brasil FHD
+httpsrv.maxptv.net8080max5547max554720308
+#EXTINF-1 tvg-id=TVBRHD tvg-name=TV Brasil SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvbrasil.png group-title=Canais I CORTESIA,TV Brasil SD
+httpsrv.maxptv.net8080max5547max554747535
+#EXTINF-1 tvg-id= tvg-name=TV Centro América Cuiabá (ST) tvg-logo=httpsrv.maxptv.net8080imagesdf769f617bd7ec86a2ab095f93ee5f7b.png group-title=Canais I GLOBO REGIONAIS,TV Centro América Cuiabá (ST)
+httpsrv.maxptv.net8080max5547max554751596
+#EXTINF-1 tvg-id= tvg-name=TV Evangelizar tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2tvevangelizar.png group-title=Canais  RELIGIÃO,TV Evangelizar
+httpsrv.maxptv.net8080max5547max554783867
+#EXTINF-1 tvg-id=TVGazeta.br tvg-name=TV Gazeta FHD tvg-logo=httpsrv.maxptv.net8080imagesab81a01d70dfed850894655b5903e732.png group-title=Canais I CORTESIA,TV Gazeta FHD
+httpsrv.maxptv.net8080max5547max554749239
+#EXTINF-1 tvg-id=TVGazeta.br tvg-name=TV Gazeta HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiagazeta.png group-title=Canais I CORTESIA,TV Gazeta HD
+httpsrv.maxptv.net8080max5547max554727160
+#EXTINF-1 tvg-id=TVGazeta.br tvg-name=Tv Gazeta SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiagazeta.png group-title=Canais I CORTESIA,Tv Gazeta SD
+httpsrv.maxptv.net8080max5547max554722948
+#EXTINF-1 tvg-id=ZYA508 tvg-name=Tv Globinho  HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantiltvglobinho.png group-title=Canais  INFANTIL,Tv Globinho  HD
+httpsrv.maxptv.net8080max5547max554727449
+#EXTINF-1 tvg-id=ZYA508 tvg-name=Tv Globinho  SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantiltvglobinho.png group-title=Canais  INFANTIL,Tv Globinho  SD
+httpsrv.maxptv.net8080max5547max554727448
+#EXTINF-1 tvg-id=ZYATVJ tvg-name=Tv Justiça tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiastvjustica.png group-title=Canais  NOTÍCIAS ,Tv Justiça
+httpsrv.maxptv.net8080max5547max554727436
+#EXTINF-1 tvg-id=ZYATVJ tvg-name=Tv Justiça tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiastvjustica.png group-title=Canais  NOTÍCIAS ,Tv Justiça
+httpsrv.maxptv.net8080max5547max554723531
+#EXTINF-1 tvg-id=novotempo.br tvg-name=TV Novo Tempo HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaonovotempo.png group-title=Canais  RELIGIÃO,TV Novo Tempo HD
+httpsrv.maxptv.net8080max5547max554727453
+#EXTINF-1 tvg-id=novotempo.br tvg-name=TV NOVO TEMPO HD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaonovotempo.png group-title=Canais  RELIGIÃO,TV NOVO TEMPO HD
+httpsrv.maxptv.net8080max5547max554748364
+#EXTINF-1 tvg-id=novotempo.br tvg-name=TV NOVO TEMPO SD tvg-logo=httpsbocs.no-ip.netlogosiptvreligiaonovotempo.png group-title=Canais  RELIGIÃO,TV NOVO TEMPO SD
+httpsrv.maxptv.net8080max5547max554748363
+#EXTINF-1 tvg-id= tvg-name=TV Padre Cicero tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2padrecicero.png group-title=Canais  RELIGIÃO,TV Padre Cicero
+httpsrv.maxptv.net8080max5547max554783872
+#EXTINF-1 tvg-id=SN tvg-name=Tv Senado tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiastvsenado.png group-title=Canais  NOTÍCIAS ,Tv Senado
+httpsrv.maxptv.net8080max5547max554727437
+#EXTINF-1 tvg-id=SN tvg-name=Tv Senado tvg-logo=httpsbocs.no-ip.netlogosiptvnoticiastvsenado.png group-title=Canais  NOTÍCIAS ,Tv Senado
+httpsrv.maxptv.net8080max5547max554723532
+#EXTINF-1 tvg-id=TVWA tvg-name=TV WA HD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvwa.png group-title=Canais I CORTESIA,TV WA HD
+httpsrv.maxptv.net8080max5547max554749120
+#EXTINF-1 tvg-id=TVWA tvg-name=TV WA SD tvg-logo=httpsbocs.no-ip.netlogosiptvcortesiatvwa.png group-title=Canais I CORTESIA,TV WA SD
+httpsrv.maxptv.net8080max5547max554749119
+#EXTINF-1 tvg-id=TV5AC tvg-name=TV5 HD tvg-logo=httpsbocs.no-ip.netlogosiptvmundotv5mond.png group-title=Canais  MUNDO INTERNACIONAL,TV5 HD
+httpsrv.maxptv.net8080max5547max554749149
+#EXTINF-1 tvg-id=TV5AC tvg-name=TV5 SD tvg-logo=httpsbocs.no-ip.netlogosiptvmundotv5mond.png group-title=Canais  MUNDO INTERNACIONAL,TV5 SD
+httpsrv.maxptv.net8080max5547max554749150
+#EXTINF-1 tvg-id= tvg-name=Two And a Half Man 24H tvg-logo=httpsbocs.no-ip.netlogotwoandhalfman.png group-title=Canais   24 HORAS,Two And a Half Man 24H
+httpsrv.maxptv.net8080max5547max5547542
+#EXTINF-1 tvg-id= tvg-name=UFC FIGHT PASS HD  tvg-logo=httpsbocs.no-ip.netlogosiptvnnufcnovo.png group-title=Canais I UFC FIGHT PASS,UFC FIGHT PASS HD 
+httpsrv.maxptv.net8080max5547max554783359
+#EXTINF-1 tvg-id= tvg-name=UFC FIGHT PASS HD 2 tvg-logo=httpsbocs.no-ip.netlogosiptvnnufcnovo.png group-title=Canais I UFC FIGHT PASS,UFC FIGHT PASS HD 2
+httpsrv.maxptv.net8080max5547max554786148
+#EXTINF-1 tvg-id= tvg-name=UFC FIGHT PASS SD  tvg-logo=httpsbocs.no-ip.netlogosiptvnnufcnovo.png group-title=Canais I UFC FIGHT PASS,UFC FIGHT PASS SD 
+httpsrv.maxptv.net8080max5547max554786150
+#EXTINF-1 tvg-id=ZYA508 tvg-name=UFC FIGHT PASS SD 2 tvg-logo=httpsbocs.no-ip.netlogosiptvnnufcnovo.png group-title=Canais I UFC FIGHT PASS,UFC FIGHT PASS SD 2
+httpsrv.maxptv.net8080max5547max554786149
+#EXTINF-1 tvg-id= tvg-name=Um Maluco no Pedaço tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoverymaluco.png group-title=Canais   24 HORAS,Um Maluco no Pedaço
+httpsrv.maxptv.net8080max5547max5547113012
+#EXTINF-1 tvg-id=UNVRBHD tvg-name=Universal Channel FHD tvg-logo=httpsbocs.no-ip.netlogouniversalchannel.png group-title=Canais  FILMES E SÉRIES ,Universal Channel FHD
+httpsrv.maxptv.net8080max5547max554727331
+#EXTINF-1 tvg-id=UNVRBHD tvg-name=Universal Channel HD tvg-logo=httpsbocs.no-ip.netlogouniversalchannel.png group-title=Canais  FILMES E SÉRIES ,Universal Channel HD
+httpsrv.maxptv.net8080max5547max554727332
+#EXTINF-1 tvg-id=UNVRBHD tvg-name=Universal Channel SD tvg-logo=httpsbocs.no-ip.netlogouniversalchannel.png group-title=Canais  FILMES E SÉRIES ,Universal Channel SD
+httpsrv.maxptv.net8080max5547max554727333
+#EXTINF-1 tvg-id= tvg-name=Universo DC tvg-logo=httpdns.mmtv.me80imagesmg9e4VnU5MiobcDarwnBsWitssnAKzqe201n4hLqh1Q.png group-title=Canais  INFANTIL 24 HORAS,Universo DC
+httpsrv.maxptv.net8080max5547max554771558
+#EXTINF-1 tvg-id= tvg-name=Universo Marvel tvg-logo=httpdns.mmtv.me80images0xe46U14Qkx3A2IXXKMCJwk1_mwStZOaA2bX2iiVltv4mESfqtYwI30n6F6dzDf4dQay90EsUcCTvFPoJH5Y_nr86IHSChqE0JuBhfGjDyA.png group-title=Canais   24 HORAS,Universo Marvel
+httpsrv.maxptv.net8080max5547max554771536
+#EXTINF-1 tvg-id=VENUSSD tvg-name=Venus HD tvg-logo=httpsupload.wikimedia.orgwikipediacommonsthumbdd9Canal_Venus_logo.svg1200px-Canal_Venus_logo.svg.png group-title=Canais  [XXX] ADULTO,Venus HD
+httpsrv.maxptv.net8080max5547max554727476
+#EXTINF-1 tvg-id=VENUSSD tvg-name=Venus SD tvg-logo=httpsupload.wikimedia.orgwikipediacommonsthumbdd9Canal_Venus_logo.svg1200px-Canal_Venus_logo.svg.png group-title=Canais  [XXX] ADULTO,Venus SD
+httpsrv.maxptv.net8080max5547max554727477
+#EXTINF-1 tvg-id= tvg-name=Vikings (2013) tvg-logo=httpsbocs.no-ip.netlogosiptv24horasvikins.png group-title=Canais   24 HORAS,Vikings (2013)
+httpsrv.maxptv.net8080max5547max5547112840
+#EXTINF-1 tvg-id=VIVABR tvg-name=Viva HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesviva.png group-title=Canais  VARIEDADES,Viva HD
+httpsrv.maxptv.net8080max5547max554727644
+#EXTINF-1 tvg-id=VIVABR tvg-name=Viva SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadesviva.png group-title=Canais  VARIEDADES,Viva SD
+httpsrv.maxptv.net8080max5547max554727645
+#EXTINF-1 tvg-id= tvg-name=Vídeos Paranormais tvg-logo=httpsbocs.no-ip.netlogosiptvdiscoveryvideosparanormais.png group-title=Canais  DISCOVERY+ - 24H,Vídeos Paranormais
+httpsrv.maxptv.net8080max5547max5547113091
+#EXTINF-1 tvg-id= tvg-name=WandaVision tvg-logo=httpsbocs.no-ip.netlogosiptv24horas2wand.png group-title=Canais   24 HORAS,WandaVision
+httpsrv.maxptv.net8080max5547max554771550
+#EXTINF-1 tvg-id=WBB tvg-name=Warner Channel FHD tvg-logo=httpsbocs.no-ip.netlogocanaiswarner.png group-title=Canais  FILMES E SÉRIES ,Warner Channel FHD
+httpsrv.maxptv.net8080max5547max554727330
+#EXTINF-1 tvg-id=WBB tvg-name=Warner Channel HD tvg-logo=httpsbocs.no-ip.netlogocanaiswarner.png group-title=Canais  FILMES E SÉRIES ,Warner Channel HD
+httpsrv.maxptv.net8080max5547max554727328
+#EXTINF-1 tvg-id=WBB tvg-name=Warner Channel SD tvg-logo=httpsbocs.no-ip.netlogocanaiswarner.png group-title=Canais  FILMES E SÉRIES ,Warner Channel SD
+httpsrv.maxptv.net8080max5547max554727329
+#EXTINF-1 tvg-id= tvg-name=Web Tv Xtreme tvg-logo=httpsbocs.no-ip.netlogosiptvclassicosserieswebtvxtreme.png group-title= Canais  CLÁSSICOS SÉRIES ,Web Tv Xtreme
+httpsrv.maxptv.net8080max5547max554771750
+#EXTINF-1 tvg-id=WOOHOOH tvg-name=Woohoo HD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeswohoo.png group-title=Canais  VARIEDADES,Woohoo HD
+httpsrv.maxptv.net8080max5547max554727663
+#EXTINF-1 tvg-id=WOOHOOH tvg-name=Woohoo SD tvg-logo=httpsbocs.no-ip.netlogosiptvvariedadeswohoo.png group-title=Canais  VARIEDADES,Woohoo SD
+httpsrv.maxptv.net8080max5547max554727664
+#EXTINF-1 tvg-id=ZOOMOO tvg-name=ZooMoo HD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilzoomo.png group-title=Canais  INFANTIL,ZooMoo HD
+httpsrv.maxptv.net8080max5547max554727371
+#EXTINF-1 tvg-id=ZOOMOO tvg-name=ZooMoo SD tvg-logo=httpsbocs.no-ip.netlogosiptvinfantilzoomo.png group-title=Canais  INFANTIL,ZooMoo SD
+httpsrv.maxptv.net8080max5547max554727372
